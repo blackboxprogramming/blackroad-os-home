@@ -1,4 +1,770 @@
-name	type	status
-RoadOS	core	active
-Road	core	active
-Roadie	core	active
+blackroad-os-home	https://github.com/blackboxprogramming/blackroad-os-home		false	2026-09-22T18:26:31Z
+design	https://github.com/blackboxprogramming/design		true	2026-09-19T19:43:42Z
+RoadOS	https://github.com/blackboxprogramming/RoadOS		true	2026-09-16T09:06:20Z
+roadc	https://github.com/blackboxprogramming/roadc	A programming language with Python-style indentation, built from scratch: a tree-walking interpreter in Python and a zero-dependency C99 compiler.	false	2026-09-14T04:27:52Z
+roadie	https://github.com/blackboxprogramming/roadie	BlackRoad roadie — sovereign self-hosted service	true	2026-09-16T08:57:33Z
+cordelia	https://github.com/blackboxprogramming/cordelia		true	2026-09-14T05:17:12Z
+BlackRoadOS-RoadOS	https://github.com/blackboxprogramming/BlackRoadOS-RoadOS	RoadOS browser-native shell baseline with 27 product windows	true	2026-09-14T16:56:07Z
+roadies	https://github.com/blackboxprogramming/roadies		true	2026-09-14T08:12:36Z
+road	https://github.com/blackboxprogramming/road		true	2026-09-16T08:52:56Z
+blackroad-attestation	https://github.com/blackboxprogramming/blackroad-attestation	Content + time attestation of the BlackRoad corpus. PRIVATE: contains full filesystem paths.	true	2026-09-21T00:07:55Z
+blackroad-root	https://github.com/blackboxprogramming/blackroad-root	BlackRoad governance plane — doctrine, tools, receipts. Filesystem namespace root.	true	2026-09-21T00:07:38Z
+blackroad-platform	https://github.com/blackboxprogramming/blackroad-platform	BlackRoad preserved repository	true	2026-09-20T22:14:01Z
+road-runtime	https://github.com/blackboxprogramming/road-runtime	BlackRoad ROAD fleet runtime: rescued legacy control plane, portable Python library, and the SSD-local roadie queue runtime.	true	2026-09-20T21:57:18Z
+roadmath	https://github.com/blackboxprogramming/roadmath		true	2026-09-20T15:49:20Z
+indices	https://github.com/blackboxprogramming/indices		true	2026-09-19T02:29:18Z
+stack	https://github.com/blackboxprogramming/stack		true	2026-09-18T17:53:26Z
+amundson-road-foundation	https://github.com/blackboxprogramming/amundson-road-foundation	BlackRoad preserved repository	true	2026-09-16T17:48:38Z
+t3_bug	https://github.com/blackboxprogramming/t3_bug	BlackRoad preserved repository	true	2026-09-16T17:48:52Z
+t2_parse	https://github.com/blackboxprogramming/t2_parse	BlackRoad preserved repository	true	2026-09-16T17:48:47Z
+t1_seq	https://github.com/blackboxprogramming/t1_seq	BlackRoad preserved repository	true	2026-09-16T17:48:44Z
+world-bootstrap	https://github.com/blackboxprogramming/world-bootstrap	BlackRoad preserved repository	true	2026-09-16T17:49:39Z
+road-ai	https://github.com/blackboxprogramming/road-ai	BlackRoad preserved repository	true	2026-09-16T17:49:34Z
+my-project	https://github.com/blackboxprogramming/my-project	BlackRoad preserved repository	true	2026-09-16T17:49:29Z
+my-first-worker	https://github.com/blackboxprogramming/my-first-worker	BlackRoad preserved repository	true	2026-09-16T17:49:24Z
+blackroad-metal	https://github.com/blackboxprogramming/blackroad-metal	BlackRoad preserved repository	true	2026-09-16T17:49:20Z
+intake	https://github.com/blackboxprogramming/intake		true	2026-09-16T17:34:59Z
+agents	https://github.com/blackboxprogramming/agents	Intelligent automation and multi-agent orchestration for Claude Code	false	2026-03-31T20:55:44Z
+main	https://github.com/blackboxprogramming/main	BlackRoad preserved repository	true	2026-09-16T17:49:13Z
+selftest	https://github.com/blackboxprogramming/selftest	BlackRoad preserved repository	true	2026-09-16T17:49:00Z
+roadcoin	https://github.com/blackboxprogramming/roadcoin	BlackRoad roadcoin — sovereign self-hosted service	true	2026-09-14T00:05:51Z
+blackboard	https://github.com/blackboxprogramming/blackboard	BlackRoad blackboard — sovereign self-hosted service	true	2026-09-14T00:05:36Z
+carkeys	https://github.com/blackboxprogramming/carkeys	BlackRoad carkeys — sovereign self-hosted service	true	2026-09-14T00:05:53Z
+roadchain	https://github.com/blackboxprogramming/roadchain	BlackRoad roadchain — sovereign self-hosted service	true	2026-09-14T00:05:33Z
+roadworld	https://github.com/blackboxprogramming/roadworld	BlackRoad roadworld — sovereign self-hosted service	true	2026-09-14T02:38:26Z
+officeroad	https://github.com/blackboxprogramming/officeroad	BlackRoad officeroad — sovereign self-hosted service	true	2026-09-14T00:05:21Z
+carpool	https://github.com/blackboxprogramming/carpool	BlackRoad carpool — sovereign self-hosted service	true	2026-09-14T00:05:38Z
+backroad	https://github.com/blackboxprogramming/backroad	BlackRoad backroad — sovereign self-hosted service	true	2026-09-14T00:05:48Z
+roadview	https://github.com/blackboxprogramming/roadview	BlackRoad roadview — sovereign self-hosted service	true	2026-09-14T00:05:03Z
+roadside	https://github.com/blackboxprogramming/roadside	BlackRoad roadside — sovereign self-hosted service	true	2026-09-14T00:05:35Z
+roadcode	https://github.com/blackboxprogramming/roadcode	BlackRoad roadcode — sovereign self-hosted service	true	2026-09-14T04:36:54Z
+blackroad-web	https://github.com/blackboxprogramming/blackroad-web	BlackRoad preserved repository	true	2026-09-16T17:47:48Z
+blackroad-templates	https://github.com/blackboxprogramming/blackroad-templates	BlackRoad preserved repository	true	2026-09-16T17:47:44Z
+blackroad-research-index	https://github.com/blackboxprogramming/blackroad-research-index	BlackRoad preserved repository	true	2026-09-16T17:47:39Z
+blackroad-products	https://github.com/blackboxprogramming/blackroad-products	BlackRoad preserved repository	true	2026-09-16T17:47:36Z
+blackroad-mockups	https://github.com/blackboxprogramming/blackroad-mockups	BlackRoad preserved repository	true	2026-09-16T17:47:32Z
+blackroad-integrations	https://github.com/blackboxprogramming/blackroad-integrations	BlackRoad preserved repository	true	2026-09-16T17:47:29Z
+blackroad-infrastructure	https://github.com/blackboxprogramming/blackroad-infrastructure	BlackRoad preserved repository	true	2026-09-16T17:47:27Z
+blackroad-fleet	https://github.com/blackboxprogramming/blackroad-fleet	BlackRoad preserved repository	true	2026-09-16T17:47:23Z
+blackroad-canonical	https://github.com/blackboxprogramming/blackroad-canonical	BlackRoad preserved repository	true	2026-09-16T17:47:21Z
+blackroad-assets	https://github.com/blackboxprogramming/blackroad-assets	BlackRoad preserved repository	true	2026-09-16T17:47:18Z
+blackroad-agents	https://github.com/blackboxprogramming/blackroad-agents	BlackRoad preserved repository	true	2026-09-16T17:47:10Z
+blackroad-mission-control	https://github.com/blackboxprogramming/blackroad-mission-control	BlackRoad preserved repository	true	2026-09-16T17:47:07Z
+blackroad-memory	https://github.com/blackboxprogramming/blackroad-memory	BlackRoad preserved repository	true	2026-09-16T17:47:05Z
+blackroad-machine-history	https://github.com/blackboxprogramming/blackroad-machine-history	BlackRoad preserved repository	true	2026-09-16T17:46:43Z
+ladybird	https://github.com/blackboxprogramming/ladybird	Truly independent web browser	false	2026-05-27T02:05:43Z
+serenity	https://github.com/blackboxprogramming/serenity	The Serenity Operating System 🐞	false	2026-05-27T02:07:56Z
+daedalos	https://github.com/blackboxprogramming/daedalos	Desktop environment in the browser	false	2026-04-04T19:31:43Z
+roadie-cli	https://github.com/blackboxprogramming/roadie-cli	BlackRoad preserved repository	true	2026-09-16T17:46:28Z
+road-cli-fresh	https://github.com/blackboxprogramming/road-cli-fresh	BlackRoad preserved repository	true	2026-09-16T17:46:20Z
+road-cli	https://github.com/blackboxprogramming/road-cli	BlackRoad preserved repository	true	2026-09-16T17:46:18Z
+blackroad-master-filesystem	https://github.com/blackboxprogramming/blackroad-master-filesystem	BlackRoad preserved repository	true	2026-09-16T17:48:35Z
+blackroad-index-atlas	https://github.com/blackboxprogramming/blackroad-index-atlas	BlackRoad preserved repository	true	2026-09-16T17:46:04Z
+blackroad-billing-auth	https://github.com/blackboxprogramming/blackroad-billing-auth	BlackRoad preserved repository	true	2026-09-16T17:46:00Z
+BlackRoad-OS-CLI	https://github.com/blackboxprogramming/BlackRoad-OS-CLI	BlackRoad preserved repository	true	2026-09-16T17:45:58Z
+prompts	https://github.com/blackboxprogramming/prompts		true	2026-09-14T00:05:44Z
+open-webui	https://github.com/blackboxprogramming/open-webui	User-friendly AI Interface (Supports Ollama, OpenAI API, ...)	false	2026-05-27T02:01:41Z
+blackroad-address-space	https://github.com/blackboxprogramming/blackroad-address-space	Canonical BlackRoad logical addressing, routing, resolution, and identity namespace	true	2026-09-16T17:27:15Z
+blackroad-infrastructure-state	https://github.com/blackboxprogramming/blackroad-infrastructure-state	Private BlackRoad infrastructure provenance	true	2026-09-16T15:39:06Z
+blackroad-system-provenance	https://github.com/blackboxprogramming/blackroad-system-provenance	Private BlackRoad infrastructure provenance	true	2026-09-16T15:38:53Z
+blackroad-network-registry	https://github.com/blackboxprogramming/blackroad-network-registry	Private BlackRoad infrastructure provenance	true	2026-09-16T15:38:34Z
+blackroad-hardware-registry	https://github.com/blackboxprogramming/blackroad-hardware-registry	Private BlackRoad infrastructure provenance	true	2026-09-16T15:38:16Z
+blackroad-governance-plane	https://github.com/blackboxprogramming/blackroad-governance-plane	BlackRoad governance plane: policy, proof, lifecycle, authorization, receipts, operations, and system governance.	true	2026-09-16T08:39:21Z
+.github	https://github.com/blackboxprogramming/.github	Developer product experiences — RoadCode editor, deployment, and execution surfaces.	true	2026-09-16T06:26:08Z
+amelia	https://github.com/blackboxprogramming/amelia		true	2026-09-14T09:37:06Z
+omnivoice	https://github.com/blackboxprogramming/omnivoice	High-Quality Voice Cloning TTS for 600+ Languages	false	2026-09-16T13:34:42Z
+blackroad-garage	https://github.com/blackboxprogramming/blackroad-garage	Private infrastructure documentation for the BlackRoad fleet: 5 Raspberry Pi nodes plus cloud, with network topology, service inventory, deployment runbooks, and troubleshooting guides.	true	2026-09-14T17:56:23Z
+BlackRoad-OS-Live-Monorepo-Private	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private	BlackRoad OS — Full monorepo (private). Complete source tree: all products, agents, infrastructure, corporate docs, and university model.	true	2026-09-14T17:55:58Z
+planning	https://github.com/blackboxprogramming/planning		true	2026-09-14T13:58:11Z
+0	https://github.com/blackboxprogramming/0		true	2026-09-14T16:55:36Z
+coincidences	https://github.com/blackboxprogramming/coincidences		true	2026-09-14T09:45:43Z
+timelines	https://github.com/blackboxprogramming/timelines		true	2026-09-14T09:45:17Z
+systems	https://github.com/blackboxprogramming/systems		true	2026-09-14T07:52:58Z
+storytime	https://github.com/blackboxprogramming/storytime		true	2026-09-14T07:50:33Z
+filesystem	https://github.com/blackboxprogramming/filesystem		true	2026-09-14T07:44:10Z
+testing	https://github.com/blackboxprogramming/testing		true	2026-09-14T07:38:30Z
+cats	https://github.com/blackboxprogramming/cats		true	2026-09-14T07:18:39Z
+blackboats	https://github.com/blackboxprogramming/blackboats		true	2026-09-14T07:00:41Z
+blackroad-os	https://github.com/blackboxprogramming/blackroad-os	Browser-native operating environment: 27 products, 27 agents, hybrid mesh backbone (Meshtastic + Headscale/WireGuard), Git-native data plane, and RoadChain provenance. The canon and registry that generate every BlackRoad OS surface.	false	2026-09-14T04:37:02Z
+blackroad-disaster-recovery	https://github.com/blackboxprogramming/blackroad-disaster-recovery	Disaster recovery for BlackRoad OS: recovery procedures, configuration inventory, and critical-file manifests.	true	2026-09-14T04:30:39Z
+blackroad	https://github.com/blackboxprogramming/blackroad		false	2026-09-14T02:38:30Z
+blackroad-app	https://github.com/blackboxprogramming/blackroad-app	BlackRoad / RoadOS starter: Next.js 16 App Router with Clerk auth and Lemon Squeezy billing. No Stripe, no Azure.	true	2026-09-14T02:38:28Z
+cecilia	https://github.com/blackboxprogramming/cecilia		true	2026-09-14T01:55:54Z
+01-Intake-Repository	https://github.com/blackboxprogramming/01-Intake-Repository	Use XX-Intake-Repository for source-intake folders: temporary homes for incoming source until reviewed and moved to its canonical location. Because storage hardware is expensive. #expensive #integrationisinnovation	true	2026-09-14T01:16:03Z
+00-Intake-Repository	https://github.com/blackboxprogramming/00-Intake-Repository	Use XX-Intake-Repository for source-intake folders: temporary homes for incoming source until reviewed and moved to its canonical location. Because storage hardware is expensive. #expensive #integrationisinnovation	true	2026-09-14T01:15:19Z
+Users-alexa-	https://github.com/blackboxprogramming/Users-alexa-		true	2026-09-14T01:09:39Z
+-	https://github.com/blackboxprogramming/-		true	2026-09-14T01:08:51Z
+blackroad-prism-console	https://github.com/blackboxprogramming/blackroad-prism-console		true	2026-09-14T01:06:54Z
+BlackRoad-OS-Live-Monorepo-Private-10	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-10	BlackRoad OS Monorepo Part 10	true	2026-09-14T00:06:31Z
+workspace	https://github.com/blackboxprogramming/workspace		true	2026-09-14T00:06:14Z
+BlackRoad-OS-Memory-Private	https://github.com/blackboxprogramming/BlackRoad-OS-Memory-Private	BlackRoad OS — agent mesh memory backup. Journals, codex, ledger, til, registries. Auto-synced daily.	true	2026-09-14T00:06:12Z
+blackroad_os_inc	https://github.com/blackboxprogramming/blackroad_os_inc		true	2026-09-14T00:06:09Z
+root	https://github.com/blackboxprogramming/root	BlackRoad root authority: canonical addressing, bootstrap, policy, admission, and routing declarations for the sovereign fabric.	false	2026-09-14T00:06:06Z
+roadtrip	https://github.com/blackboxprogramming/roadtrip	BlackRoad roadtrip — sovereign self-hosted service	true	2026-09-14T00:06:06Z
+BlackRoad-OS-Live-Monorepo-Private-5	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-5	BlackRoad OS Monorepo Part 5	true	2026-09-14T00:08:42Z
+BlackRoad-OS-Live-Monorepo-Private-4	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-4	BlackRoad OS Monorepo Part 4	true	2026-09-14T00:06:04Z
+roadwork	https://github.com/blackboxprogramming/roadwork	BlackRoad roadwork — sovereign self-hosted service	true	2026-09-14T00:05:58Z
+oneway	https://github.com/blackboxprogramming/oneway	BlackRoad oneway — sovereign self-hosted service	true	2026-09-14T00:05:56Z
+BlackRoad-OS-Live-Monorepo-Private-8	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-8	BlackRoad OS Monorepo Part 8	true	2026-09-14T00:09:02Z
+BlackRoad-OS-Live-Monorepo-Private-9	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-9	BlackRoad OS Monorepo Part 9	true	2026-09-14T00:06:15Z
+jobs	https://github.com/blackboxprogramming/jobs		true	2026-09-14T00:05:31Z
+BlackRoad-OS-Live-Monorepo-Private-3	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-3	BlackRoad OS Monorepo Part 3	true	2026-09-14T00:05:28Z
+BlackRoad-OS-Live-Monorepo-Private-7	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-7	BlackRoad OS Monorepo Part 7	true	2026-09-14T00:08:17Z
+BlackRoad-OS-Live-Monorepo-Private-6	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-6	BlackRoad OS Monorepo Part 6	true	2026-09-14T00:07:12Z
+github	https://github.com/blackboxprogramming/github		false	2026-09-14T00:05:18Z
+social	https://github.com/blackboxprogramming/social	BlackRoad social — sovereign self-hosted service	true	2026-09-14T00:05:16Z
+BlackRoad-OS-Live-Monorepo-Private-2	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Private-2	BlackRoad OS Monorepo Part 2	true	2026-09-14T00:07:21Z
+BlackRoad-OS-Live-Working-Version-Private	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Working-Version-Private	The private live proving ground for BlackRoad OS: live routes, staged integrations, operational app shells, and end-to-end validation before anything is mirrored publicly.	true	2026-09-14T00:06:10Z
+BlackRoad-OS-Live-Monorepo-Public	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Monorepo-Public	BlackRoad OS — Full monorepo (public). The open view of the sovereign AI operating system. 18 products, university model, 27 AI agents.	false	2026-09-14T00:05:07Z
+BlackRoad-OS-Live-Working-Version-Public	https://github.com/blackboxprogramming/BlackRoad-OS-Live-Working-Version-Public	The public live and demo surface for BlackRoad OS: the browser-native shell, 25 sector workspaces, and the Cloudflare edge stack (Workers, D1, KV, Pages) that serves them.	false	2026-09-14T00:04:54Z
+RoadCorp	https://github.com/blackboxprogramming/RoadCorp	ClawLibrary is a 2D pixel-game-style control interface for OpenClaw.  It turns OpenClaw's generated assets, runtime activity, and assets related working state into a visual library interface that can be browsed, previewed, and monitored in real time.	false	2026-04-09T02:31:16Z
+core	https://github.com/blackboxprogramming/core	:house_with_garden: Open source home automation that puts local control and privacy first.	false	2026-09-10T07:32:13Z
+bitcoin	https://github.com/blackboxprogramming/bitcoin	Bitcoin Core integration/staging tree	false	2026-09-10T07:17:16Z
+browserfs	https://github.com/blackboxprogramming/browserfs	BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.	false	2026-09-10T07:03:59Z
+Amundson-Mathematics	https://github.com/blackboxprogramming/Amundson-Mathematics	Rigorous analysis of the Amundson sequence G(n) = n^(n+1)/(n+1)^n and the constant A_G: Hausdorff moment representation, compound-Poisson/Levy form, fibre lattices, and endpoint Christoffel asymptotics (Theorem C0).	false	2026-08-30T20:19:13Z
+NemoClaw	https://github.com/blackboxprogramming/NemoClaw	Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference	false	2026-07-18T15:54:56Z
+rustfs	https://github.com/blackboxprogramming/rustfs	🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.	false	2026-07-18T14:59:56Z
+Graphite	https://github.com/blackboxprogramming/Graphite	Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine	false	2026-07-18T15:19:40Z
+aiohttp	https://github.com/blackboxprogramming/aiohttp	Asynchronous HTTP client/server framework for asyncio and Python	false	2026-07-18T20:05:32Z
+claude-plugins-official	https://github.com/blackboxprogramming/claude-plugins-official	Official, Anthropic-managed directory of high quality Claude Code Plugins.	false	2026-07-18T14:51:59Z
+ClickHouse	https://github.com/blackboxprogramming/ClickHouse	ClickHouse® is a real-time analytics database management system	false	2026-07-18T14:27:27Z
+hyperswitch	https://github.com/blackboxprogramming/hyperswitch	Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation	false	2026-07-18T14:32:25Z
+hyperframes	https://github.com/blackboxprogramming/hyperframes	Write HTML. Render video. Built for agents.	false	2026-07-18T14:42:49Z
+sniffnet	https://github.com/blackboxprogramming/sniffnet	Comfortably monitor your Internet traffic 🕵️‍♂️	false	2026-07-18T14:34:39Z
+openapi-generator	https://github.com/blackboxprogramming/openapi-generator	OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)	false	2026-07-18T15:20:16Z
+streamlit	https://github.com/blackboxprogramming/streamlit	Streamlit — A faster way to build and share data apps.	false	2026-07-18T14:31:00Z
+helm	https://github.com/blackboxprogramming/helm	The Kubernetes Package Manager	false	2026-07-18T14:59:27Z
+lima	https://github.com/blackboxprogramming/lima	Linux virtual machines, with a focus on running containers	false	2026-07-18T15:55:54Z
+openssl	https://github.com/blackboxprogramming/openssl	General purpose TLS and crypto library	false	2026-07-18T14:56:26Z
+incubator-seata	https://github.com/blackboxprogramming/incubator-seata	:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.	false	2026-07-18T15:36:36Z
+DeepTutor	https://github.com/blackboxprogramming/DeepTutor	DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.	false	2026-07-18T15:08:08Z
+sim	https://github.com/blackboxprogramming/sim	Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.	false	2026-07-18T15:02:46Z
+elixir	https://github.com/blackboxprogramming/elixir	Simple from zero to scale	false	2026-07-18T15:20:58Z
+tidb	https://github.com/blackboxprogramming/tidb	TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.	false	2026-07-18T14:33:59Z
+netbox	https://github.com/blackboxprogramming/netbox	The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/	false	2026-07-18T15:56:50Z
+livekit	https://github.com/blackboxprogramming/livekit	End-to-end realtime stack for connecting humans and AI	false	2026-07-18T16:01:47Z
+containerd	https://github.com/blackboxprogramming/containerd	An open and reliable container runtime	false	2026-07-18T15:58:05Z
+conductor	https://github.com/blackboxprogramming/conductor	Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents	false	2026-07-18T14:54:14Z
+netty	https://github.com/blackboxprogramming/netty	Netty project - an event-driven asynchronous network application framework	false	2026-07-18T14:45:48Z
+bazel	https://github.com/blackboxprogramming/bazel	a fast, scalable, multi-language and extensible build system	false	2026-07-18T15:41:10Z
+mlflow	https://github.com/blackboxprogramming/mlflow	The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.	false	2026-07-18T15:17:19Z
+symphony	https://github.com/blackboxprogramming/symphony	Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.	false	2026-07-18T15:26:51Z
+ebook2audiobook	https://github.com/blackboxprogramming/ebook2audiobook	Generate audiobooks from e-books, voice cloning & 1158+ languages!	false	2026-07-18T16:04:04Z
+istio	https://github.com/blackboxprogramming/istio	Connect, secure, control, and observe services.	false	2026-07-18T14:37:46Z
+kafka	https://github.com/blackboxprogramming/kafka	Apache Kafka - A distributed event streaming platform	false	2026-07-18T14:50:34Z
+selenium	https://github.com/blackboxprogramming/selenium	A browser automation framework and ecosystem.	false	2026-07-18T14:48:12Z
+appsmith	https://github.com/blackboxprogramming/appsmith	Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.	false	2026-07-18T14:33:35Z
+dapr	https://github.com/blackboxprogramming/dapr	Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.	false	2026-07-18T15:38:09Z
+knowledge-work-plugins	https://github.com/blackboxprogramming/knowledge-work-plugins	Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork	false	2026-07-18T15:50:18Z
+influxdb	https://github.com/blackboxprogramming/influxdb	Scalable datastore for metrics, events, and real-time analytics	false	2026-07-18T14:55:01Z
+agent-browser	https://github.com/blackboxprogramming/agent-browser	Browser automation CLI for AI agents	false	2026-07-18T14:36:58Z
+jaeger	https://github.com/blackboxprogramming/jaeger	CNCF Jaeger, a Distributed Tracing Platform	false	2026-07-18T15:48:32Z
+fastmcp	https://github.com/blackboxprogramming/fastmcp	🚀 The fast, Pythonic way to build MCP servers and clients.	false	2026-07-18T15:22:24Z
+kestra	https://github.com/blackboxprogramming/kestra	Event Driven Orchestration & Scheduling Platform for Mission Critical Applications	false	2026-07-18T15:08:59Z
+adk-python	https://github.com/blackboxprogramming/adk-python	An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.	false	2026-07-18T15:58:30Z
+openai-python	https://github.com/blackboxprogramming/openai-python	The official Python library for the OpenAI API	false	2026-07-18T14:55:32Z
+seaweedfs	https://github.com/blackboxprogramming/seaweedfs	SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.	false	2026-07-18T14:49:58Z
+crawlee	https://github.com/blackboxprogramming/crawlee	Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.	false	2026-07-18T15:43:18Z
+compose-multiplatform	https://github.com/blackboxprogramming/compose-multiplatform	Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.	false	2026-07-18T16:09:32Z
+lighthouse	https://github.com/blackboxprogramming/lighthouse	Automated auditing, performance metrics, and best practices for the web.	false	2026-07-18T14:58:18Z
+mediapipe	https://github.com/blackboxprogramming/mediapipe	Cross-platform, customizable ML solutions for live and streaming media.	false	2026-07-18T14:42:24Z
+haystack	https://github.com/blackboxprogramming/haystack	Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.	false	2026-07-18T15:38:34Z
+container	https://github.com/blackboxprogramming/container	A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 	false	2026-07-18T14:27:50Z
+firecracker	https://github.com/blackboxprogramming/firecracker	Secure and fast microVMs for serverless computing.	false	2026-07-18T14:44:17Z
+thingsboard	https://github.com/blackboxprogramming/thingsboard	Open-source IoT Platform - Device management, data collection, processing and visualization.	false	2026-07-18T15:54:20Z
+spring-ai	https://github.com/blackboxprogramming/spring-ai	An Application Framework for AI Engineering	false	2026-07-18T20:06:57Z
+OpenAPI-Specification	https://github.com/blackboxprogramming/OpenAPI-Specification	The OpenAPI Specification Repository	false	2026-07-18T14:55:58Z
+openui	https://github.com/blackboxprogramming/openui	OpenUI let's you describe UI using your imagination, then see it rendered live.	false	2026-07-18T15:51:51Z
+crystal	https://github.com/blackboxprogramming/crystal	The Crystal Programming Language	false	2026-07-18T15:59:38Z
+project-nomad	https://github.com/blackboxprogramming/project-nomad	Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.	false	2026-07-18T14:47:45Z
+etcd	https://github.com/blackboxprogramming/etcd	Distributed reliable key-value store for the most critical data of a distributed system	false	2026-07-18T14:26:14Z
+prisma	https://github.com/blackboxprogramming/prisma	Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB	false	2026-07-18T14:29:35Z
+sharp	https://github.com/blackboxprogramming/sharp	High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.	false	2026-07-18T14:51:21Z
+trivy	https://github.com/blackboxprogramming/trivy	Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more	false	2026-07-18T14:40:50Z
+SwitchHosts	https://github.com/blackboxprogramming/SwitchHosts	Switch hosts quickly!	false	2026-07-18T15:09:52Z
+harness	https://github.com/blackboxprogramming/harness	Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.	false	2026-07-18T14:39:09Z
+graphql-engine	https://github.com/blackboxprogramming/graphql-engine	Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.	false	2026-07-18T14:53:35Z
+playwright-mcp	https://github.com/blackboxprogramming/playwright-mcp	Playwright MCP server	false	2026-07-18T14:45:03Z
+DevOps-Roadmap	https://github.com/blackboxprogramming/DevOps-Roadmap	DevOps Roadmap for 2026. with learning resources	false	2026-07-18T16:01:01Z
+mlc-llm	https://github.com/blackboxprogramming/mlc-llm	Universal LLM Deployment Engine with ML Compilation	false	2026-07-18T15:48:57Z
+OpenCLI	https://github.com/blackboxprogramming/OpenCLI	Make Any Website into CLI & Use your logged-in browser by AI agent. 	false	2026-07-18T15:13:13Z
+fastai	https://github.com/blackboxprogramming/fastai	The fastai deep learning library	false	2026-07-18T15:05:49Z
+agentskills	https://github.com/blackboxprogramming/agentskills	Specification and documentation for Agent Skills	false	2026-07-18T15:48:07Z
+CLI-Anything	https://github.com/blackboxprogramming/CLI-Anything	"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/	false	2026-07-18T14:30:39Z
+onlook	https://github.com/blackboxprogramming/onlook	The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI	false	2026-07-18T15:25:03Z
+TypeScript	https://github.com/blackboxprogramming/TypeScript	TypeScript is a superset of JavaScript that compiles to clean JavaScript output.	false	2026-07-18T14:23:04Z
+VoxCPM	https://github.com/blackboxprogramming/VoxCPM	VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning	false	2026-07-09T18:37:10Z
+codex-plugin-cc	https://github.com/blackboxprogramming/codex-plugin-cc	Use Codex from Claude Code to review code or delegate tasks.	false	2026-07-18T15:03:09Z
+Resume-Matcher	https://github.com/blackboxprogramming/Resume-Matcher	The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.	false	2026-07-18T15:06:37Z
+claude-inter-comm	https://github.com/blackboxprogramming/claude-inter-comm		false	2026-07-06T19:56:01Z
+letta	https://github.com/blackboxprogramming/letta	Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.	false	2026-07-18T15:46:01Z
+langextract	https://github.com/blackboxprogramming/langextract	A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.	false	2026-07-18T14:40:12Z
+financial-services	https://github.com/blackboxprogramming/financial-services		false	2026-07-18T14:49:31Z
+Anthropic-Cybersecurity-Skills	https://github.com/blackboxprogramming/Anthropic-Cybersecurity-Skills	817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0	false	2026-07-18T15:40:09Z
+MiniCPM-V	https://github.com/blackboxprogramming/MiniCPM-V	A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone	false	2026-07-09T18:37:35Z
+taipy	https://github.com/blackboxprogramming/taipy	Turns Data and AI algorithms into production-ready web applications in no time.	false	2026-07-18T16:07:19Z
+minicpm	https://github.com/blackboxprogramming/minicpm	MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.	false	2026-07-09T18:23:49Z
+pingora	https://github.com/blackboxprogramming/pingora	A library for building fast, reliable and evolvable network services.	false	2026-07-18T15:09:27Z
+authelia	https://github.com/blackboxprogramming/authelia	The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™	false	2026-06-19T19:29:37Z
+agentchattr	https://github.com/blackboxprogramming/agentchattr	Free, local chat where AI coding agents can tag each other, talk, and coordinate with you.	false	2026-06-19T19:27:57Z
+wireguard-freebsd	https://github.com/blackboxprogramming/wireguard-freebsd	Mirror only. Official repository is at https://git.zx2c4.com/wireguard-freebsd	false	2026-06-19T19:24:34Z
+wireguard-apple	https://github.com/blackboxprogramming/wireguard-apple	Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple	false	2026-06-19T18:41:56Z
+wireguard-android	https://github.com/blackboxprogramming/wireguard-android	Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android	false	2026-06-19T18:39:35Z
+Road-Llama	https://github.com/blackboxprogramming/Road-Llama	Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.	false	2026-06-18T23:55:38Z
+jsoncrack.com	https://github.com/blackboxprogramming/jsoncrack.com	✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.	false	2026-07-18T14:31:43Z
+hf-hub	https://github.com/blackboxprogramming/hf-hub	Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package	false	2026-06-10T01:17:57Z
+oh-my-pi	https://github.com/blackboxprogramming/oh-my-pi	⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more	false	2026-06-10T00:18:52Z
+assistant-ui	https://github.com/blackboxprogramming/assistant-ui	Typescript/React Library for AI Chat💬🚀	false	2026-06-10T00:17:54Z
+goose	https://github.com/blackboxprogramming/goose	an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM	false	2026-06-10T00:15:48Z
+agentgateway	https://github.com/blackboxprogramming/agentgateway	Next Generation Agentic Proxy for AI Agents and MCP servers	false	2026-06-10T00:16:06Z
+beam	https://github.com/blackboxprogramming/beam	Apache Beam is a unified programming model for Batch and Streaming data processing.	false	2026-06-10T00:06:22Z
+DocsGPT	https://github.com/blackboxprogramming/DocsGPT	Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.	false	2026-06-10T00:17:23Z
+opencode	https://github.com/blackboxprogramming/opencode	The open source coding agent.	false	2026-06-10T00:17:00Z
+mlx	https://github.com/blackboxprogramming/mlx	MLX: An array framework for Apple silicon	false	2026-06-09T23:55:51Z
+cudf	https://github.com/blackboxprogramming/cudf	cuDF - GPU DataFrame Library 	false	2026-08-12T14:11:00Z
+fiftyone	https://github.com/blackboxprogramming/fiftyone	Refine high-quality datasets and visual AI models	false	2026-06-10T00:04:32Z
+tinygrad	https://github.com/blackboxprogramming/tinygrad	You like pytorch? You like micrograd? You love tinygrad! ❤️ 	false	2026-06-09T23:54:00Z
+onednn	https://github.com/blackboxprogramming/onednn	oneAPI Deep Neural Network Library (oneDNN)	false	2026-06-09T23:56:08Z
+pytorch	https://github.com/blackboxprogramming/pytorch	Tensors and Dynamic neural networks in Python with strong GPU acceleration	false	2026-06-09T23:50:21Z
+browser-use	https://github.com/blackboxprogramming/browser-use	🌐 Make websites accessible for AI agents. Automate tasks online with ease.	false	2026-06-10T00:18:44Z
+xet-core	https://github.com/blackboxprogramming/xet-core	xet client tech, used in huggingface_hub	false	2026-06-10T01:18:14Z
+tensorflow	https://github.com/blackboxprogramming/tensorflow	An Open Source Machine Learning Framework for Everyone	false	2026-06-09T23:50:59Z
+uv	https://github.com/blackboxprogramming/uv	An extremely fast Python package and project manager, written in Rust.	false	2026-06-10T00:08:14Z
+keras	https://github.com/blackboxprogramming/keras	Deep Learning for humans	false	2026-06-09T23:53:41Z
+flink	https://github.com/blackboxprogramming/flink	Apache Flink	false	2026-06-10T00:06:07Z
+chat-ui	https://github.com/blackboxprogramming/chat-ui	The open source codebase powering HuggingChat	false	2026-06-10T01:18:34Z
+agno	https://github.com/blackboxprogramming/agno	Build, run, and manage agent platforms.	false	2026-06-10T00:16:18Z
+triton	https://github.com/blackboxprogramming/triton	Development repository for the Triton language and compiler	false	2026-06-09T23:55:15Z
+tvm	https://github.com/blackboxprogramming/tvm	Open Machine Learning Compiler Framework	false	2026-06-10T00:17:38Z
+delta	https://github.com/blackboxprogramming/delta	An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs	false	2026-06-10T00:04:55Z
+carla	https://github.com/blackboxprogramming/carla	Open-source simulator for autonomous driving research.	false	2026-06-10T00:19:05Z
+spark	https://github.com/blackboxprogramming/spark	Apache Spark - A unified analytics engine for large-scale data processing	false	2026-06-10T00:05:59Z
+jax	https://github.com/blackboxprogramming/jax	Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more	false	2026-06-09T23:51:28Z
+pi	https://github.com/blackboxprogramming/pi	AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI	false	2026-06-10T00:18:24Z
+narwhals	https://github.com/blackboxprogramming/narwhals	Lightweight and extensible compatibility layer between dataframe libraries!	false	2026-06-10T00:03:25Z
+pandas	https://github.com/blackboxprogramming/pandas	Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more	false	2026-06-10T00:00:42Z
+dask	https://github.com/blackboxprogramming/dask	Parallel computing with task scheduling	false	2026-06-10T00:01:37Z
+rig	https://github.com/blackboxprogramming/rig	⚙️🦀 Build modular and scalable LLM Applications in Rust	false	2026-06-10T00:15:45Z
+hf-agentfinder	https://github.com/blackboxprogramming/hf-agentfinder	Agent Finder Client/Server 	false	2026-06-10T01:18:57Z
+iceberg	https://github.com/blackboxprogramming/iceberg	Apache Iceberg	false	2026-06-10T00:05:11Z
+optimum-intel	https://github.com/blackboxprogramming/optimum-intel	🤗 Optimum Intel: Accelerate inference with Intel optimization tools	false	2026-06-10T01:19:15Z
+cugraph	https://github.com/blackboxprogramming/cugraph	cuGraph - RAPIDS Graph Analytics Library	false	2026-06-10T00:02:26Z
+speech-to-speech	https://github.com/blackboxprogramming/speech-to-speech	Build local voice agents with open-source models	false	2026-06-10T01:19:31Z
+claude-code-action	https://github.com/blackboxprogramming/claude-code-action		false	2026-06-10T00:17:15Z
+onnx	https://github.com/blackboxprogramming/onnx	Open standard for machine learning interoperability	false	2026-06-09T23:56:36Z
+burn	https://github.com/blackboxprogramming/burn	Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.	false	2026-06-09T23:57:11Z
+career-ops	https://github.com/blackboxprogramming/career-ops	AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.	false	2026-09-01T09:32:58Z
+aim	https://github.com/blackboxprogramming/aim	Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.	false	2026-06-10T00:16:39Z
+airflow	https://github.com/blackboxprogramming/airflow	Apache Airflow - A platform to programmatically author, schedule, and monitor workflows	false	2026-06-10T00:05:49Z
+hf-mcp-server	https://github.com/blackboxprogramming/hf-mcp-server	Hugging Face MCP Server	false	2026-06-10T01:19:55Z
+ml-intern	https://github.com/blackboxprogramming/ml-intern	🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models	false	2026-06-10T01:20:13Z
+duckdb	https://github.com/blackboxprogramming/duckdb	DuckDB is an analytical in-process SQL database management system	false	2026-06-10T00:04:22Z
+burr	https://github.com/blackboxprogramming/burr	Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.	false	2026-06-10T00:17:13Z
+xgboost	https://github.com/blackboxprogramming/xgboost	Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow	false	2026-06-10T00:09:00Z
+scipy	https://github.com/blackboxprogramming/scipy	SciPy library main repository	false	2026-06-10T00:02:06Z
+axolotl	https://github.com/blackboxprogramming/axolotl	Go ahead and axolotl questions	false	2026-06-10T00:18:11Z
+OpenEnv	https://github.com/blackboxprogramming/OpenEnv	An interface library for RL post training with environments. 	false	2026-06-10T01:20:37Z
+smolagents	https://github.com/blackboxprogramming/smolagents	🤗 smolagents: a barebones library for agents that think in code.	false	2026-06-10T01:20:54Z
+cassandra-cpp-driver	https://github.com/blackboxprogramming/cassandra-cpp-driver	C/C++ Driver for Apache Cassandra®	false	2026-06-10T07:14:59Z
+bitsandbytes	https://github.com/blackboxprogramming/bitsandbytes	Accessible large language models via k-bit quantization for PyTorch.	false	2026-06-10T00:18:42Z
+transformers	https://github.com/blackboxprogramming/transformers	🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 	false	2026-06-09T23:59:20Z
+optimum-quanto	https://github.com/blackboxprogramming/optimum-quanto	A pytorch quantization backend for optimum	false	2026-06-10T01:21:35Z
+oxen	https://github.com/blackboxprogramming/oxen	Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code.	false	2026-06-10T00:03:53Z
+astropy	https://github.com/blackboxprogramming/astropy	Astronomy and astrophysics core library	false	2026-06-10T00:17:51Z
+scikit-learn	https://github.com/blackboxprogramming/scikit-learn	scikit-learn: machine learning in Python	false	2026-06-10T00:08:36Z
+transformers-test-ci	https://github.com/blackboxprogramming/transformers-test-ci		false	2026-06-10T01:21:54Z
+gz-rendering	https://github.com/blackboxprogramming/gz-rendering	C++ library designed to provide an abstraction for different rendering engines. It offers unified APIs for creating 3D graphics applications.	false	2026-06-10T06:24:28Z
+inference-benchmarker	https://github.com/blackboxprogramming/inference-benchmarker	Inference server benchmarking tool	false	2026-06-10T01:22:10Z
+featuretools	https://github.com/blackboxprogramming/featuretools	An open source python library for automated feature engineering	false	2026-06-10T00:17:10Z
+polars	https://github.com/blackboxprogramming/polars	Extremely fast Query Engine for DataFrames, written in Rust	false	2026-06-10T00:00:59Z
+iree	https://github.com/blackboxprogramming/iree	A retargetable MLIR-based machine learning compiler and runtime toolkit.	false	2026-06-09T23:56:54Z
+kernels	https://github.com/blackboxprogramming/kernels	Build compute kernels and load them from the Hub.	false	2026-06-10T01:22:27Z
+optimum	https://github.com/blackboxprogramming/optimum	🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools	false	2026-06-10T01:22:43Z
+trl	https://github.com/blackboxprogramming/trl	Train transformer language models with reinforcement learning.	false	2026-06-10T01:22:59Z
+GPT-RAG	https://github.com/blackboxprogramming/GPT-RAG	Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.	false	2026-06-10T00:18:19Z
+autoware	https://github.com/blackboxprogramming/autoware	Autoware - the world's leading open-source software project for autonomous driving	false	2026-06-10T00:18:06Z
+accelerate	https://github.com/blackboxprogramming/accelerate	🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support	false	2026-06-10T01:23:16Z
+datasets	https://github.com/blackboxprogramming/datasets	🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools	false	2026-06-10T01:23:32Z
+zarr-python	https://github.com/blackboxprogramming/zarr-python	An implementation of chunked, compressed, N-dimensional arrays for Python.	false	2026-06-10T00:03:03Z
+zvec	https://github.com/blackboxprogramming/zvec	A lightweight, lightning-fast, in-process vector database	false	2026-06-10T00:16:41Z
+jido	https://github.com/blackboxprogramming/jido	🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.	false	2026-06-10T00:16:00Z
+pandera	https://github.com/blackboxprogramming/pandera	A light-weight, flexible, and expressive statistical data testing library	false	2026-06-10T00:04:02Z
+deer-flow	https://github.com/blackboxprogramming/deer-flow	An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.	false	2026-06-10T00:18:37Z
+schemabrain	https://github.com/blackboxprogramming/schemabrain	The trust and intelligence layer between AI agents and your database. Read-only by architecture, semantic knowledge graph + audit log, MCP-native.	false	2026-06-10T00:17:41Z
+sentence-transformers	https://github.com/blackboxprogramming/sentence-transformers	State-of-the-Art Embeddings, Retrieval, and Reranking	false	2026-06-09T23:59:40Z
+hudi	https://github.com/blackboxprogramming/hudi	Upserts, Deletes And Incremental Processing on Big Data.	false	2026-06-10T00:05:23Z
+tokenizers	https://github.com/blackboxprogramming/tokenizers	💥 Fast State-of-the-Art Tokenizers optimized for Research and Production	false	2026-06-10T00:00:01Z
+rtp-llm	https://github.com/blackboxprogramming/rtp-llm	RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.	false	2026-06-10T00:16:36Z
+solr	https://github.com/blackboxprogramming/solr	Apache Solr open-source search software	false	2026-06-10T00:17:26Z
+label-studio	https://github.com/blackboxprogramming/label-studio	Label Studio is a multi-type data labeling and annotation tool with standardized output format	false	2026-06-10T00:04:44Z
+agentscope	https://github.com/blackboxprogramming/agentscope	Build and run agents you can see, understand and trust.	false	2026-06-10T00:16:31Z
+QwenPaw	https://github.com/blackboxprogramming/QwenPaw	Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.	false	2026-06-10T00:16:26Z
+VeOmni	https://github.com/blackboxprogramming/VeOmni	VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo	false	2026-06-10T00:19:00Z
+JoltPhysics	https://github.com/blackboxprogramming/JoltPhysics	A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West and Death Stranding 2.	false	2026-06-10T07:17:32Z
+openagent	https://github.com/blackboxprogramming/openagent	⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org	false	2026-06-10T00:19:10Z
+whisper.cpp	https://github.com/blackboxprogramming/whisper.cpp	Port of OpenAI's Whisper model in C/C++	false	2026-06-10T07:53:18Z
+sandboxed-api	https://github.com/blackboxprogramming/sandboxed-api	Generate sandboxes for C/C++ libraries automatically	false	2026-06-10T07:06:47Z
+data-juicer	https://github.com/blackboxprogramming/data-juicer	Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷	false	2026-06-10T00:16:52Z
+OpenMLDB	https://github.com/blackboxprogramming/OpenMLDB	OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference.	false	2026-06-10T00:15:40Z
+paddle	https://github.com/blackboxprogramming/paddle	PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）	false	2026-06-09T23:54:20Z
+ax	https://github.com/blackboxprogramming/ax	The pretty much "official" DSPy framework for Typescript	false	2026-06-10T00:18:09Z
+llama-cpp-python	https://github.com/blackboxprogramming/llama-cpp-python	Python bindings for llama.cpp	false	2026-06-10T00:15:35Z
+lakefs	https://github.com/blackboxprogramming/lakefs	lakeFS - Data version control for your data lake | Git for data	false	2026-06-10T00:05:36Z
+mage-ai	https://github.com/blackboxprogramming/mage-ai	🧙 Build, run, and manage data pipelines for integrating and transforming data.	false	2026-06-10T00:07:21Z
+pocketpal-ai	https://github.com/blackboxprogramming/pocketpal-ai	An app that brings language models directly to your phone.	false	2026-06-10T00:15:38Z
+argo-workflows	https://github.com/blackboxprogramming/argo-workflows	Workflow Engine for Kubernetes	false	2026-06-10T00:17:31Z
+ECC	https://github.com/blackboxprogramming/ECC	The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.	false	2026-06-10T00:15:55Z
+yunikorn-core	https://github.com/blackboxprogramming/yunikorn-core	Apache YuniKorn Core	false	2026-06-10T00:17:33Z
+agent-squad	https://github.com/blackboxprogramming/agent-squad	Flexible and powerful framework for managing multiple AI agents and handling complex conversations	false	2026-06-10T00:15:53Z
+awesome-opensource-ai	https://github.com/blackboxprogramming/awesome-opensource-ai	Curated list of the best truly open-source AI projects, models, tools, and infrastructure.	false	2026-06-09T23:49:39Z
+numpyro	https://github.com/blackboxprogramming/numpyro	Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.	false	2026-06-09T23:53:15Z
+aisuite	https://github.com/blackboxprogramming/aisuite	Simple, unified interface to multiple Generative AI providers 	false	2026-06-10T00:16:55Z
+distilabel	https://github.com/blackboxprogramming/distilabel	Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.	false	2026-06-10T00:17:28Z
+argilla	https://github.com/blackboxprogramming/argilla	Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets	false	2026-06-10T00:17:36Z
+snorkel	https://github.com/blackboxprogramming/snorkel	A system for quickly generating training data with weak supervision	false	2026-06-10T00:04:13Z
+deequ	https://github.com/blackboxprogramming/deequ	Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.	false	2026-06-10T00:18:22Z
+candle	https://github.com/blackboxprogramming/candle	Minimalist ML framework for Rust	false	2026-06-09T23:57:32Z
+catboost	https://github.com/blackboxprogramming/catboost	A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.	false	2026-06-10T00:19:02Z
+OpenLLM	https://github.com/blackboxprogramming/OpenLLM	Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.	false	2026-06-10T00:18:47Z
+dali	https://github.com/blackboxprogramming/dali	A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.	false	2026-06-10T00:03:14Z
+fairseq2	https://github.com/blackboxprogramming/fairseq2	FAIR Sequence Modeling Toolkit 2	false	2026-06-10T00:00:24Z
+UTM	https://github.com/blackboxprogramming/UTM	Virtual machines for iOS and macOS	false	2026-07-18T14:46:23Z
+skrub	https://github.com/blackboxprogramming/skrub	Machine learning with dataframes	false	2026-06-10T00:03:44Z
+autogluon	https://github.com/blackboxprogramming/autogluon	Fast and Accurate ML in 3 Lines of Code	false	2026-06-10T00:18:01Z
+wolf	https://github.com/blackboxprogramming/wolf	Stream virtual desktops and games running in Docker	false	2026-06-10T07:19:12Z
+RWKV-LM	https://github.com/blackboxprogramming/RWKV-LM	RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.	false	2026-06-10T00:18:29Z
+flax	https://github.com/blackboxprogramming/flax	Flax is a neural network library for JAX that is designed for flexibility.	false	2026-06-09T23:51:47Z
+hamilton	https://github.com/blackboxprogramming/hamilton	Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.	false	2026-06-10T00:07:31Z
+nghttp3	https://github.com/blackboxprogramming/nghttp3	HTTP/3 library written in C	false	2026-06-10T07:11:01Z
+ggml	https://github.com/blackboxprogramming/ggml	Tensor library for machine learning	false	2026-06-09T23:55:32Z
+chronos-forecasting	https://github.com/blackboxprogramming/chronos-forecasting	Chronos: Pretrained Models for Time Series Forecasting	false	2026-06-10T00:17:18Z
+Pixelle-Video	https://github.com/blackboxprogramming/Pixelle-Video	🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine	false	2026-06-10T00:16:16Z
+pytorch_geometric	https://github.com/blackboxprogramming/pytorch_geometric	Graph Neural Network Library for PyTorch	false	2026-06-09T23:54:36Z
+equinox	https://github.com/blackboxprogramming/equinox	Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/	false	2026-06-09T23:52:23Z
+higress	https://github.com/blackboxprogramming/higress	🤖 AI Gateway | AI Native API Gateway	false	2026-06-10T00:16:49Z
+detectron2	https://github.com/blackboxprogramming/detectron2	Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.	false	2026-07-18T14:46:58Z
+ray	https://github.com/blackboxprogramming/ray	Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.	false	2026-06-06T06:06:02Z
+mermaid	https://github.com/blackboxprogramming/mermaid	Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown	false	2026-06-06T05:49:59Z
+dashy	https://github.com/blackboxprogramming/dashy	🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!	false	2026-06-06T05:39:28Z
+kroki	https://github.com/blackboxprogramming/kroki	Creates diagrams from textual descriptions!	false	2026-06-06T05:50:09Z
+temporal	https://github.com/blackboxprogramming/temporal	Temporal service	false	2026-06-06T05:44:22Z
+keycloak	https://github.com/blackboxprogramming/keycloak	Open Source Identity and Access Management For Modern Applications and Services	false	2026-06-06T05:38:09Z
+envoy	https://github.com/blackboxprogramming/envoy	Cloud-native high-performance edge/middle/service proxy	false	2026-06-06T06:06:11Z
+filebrowser	https://github.com/blackboxprogramming/filebrowser	📂 Web File Browser	false	2026-06-06T05:38:20Z
+uptime-kuma	https://github.com/blackboxprogramming/uptime-kuma	A fancy self-hosted monitoring tool	false	2026-06-06T05:45:53Z
+crewai	https://github.com/blackboxprogramming/crewai	Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.	false	2026-06-06T05:39:37Z
+sandbox-runtime	https://github.com/blackboxprogramming/sandbox-runtime	A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.	false	2026-09-02T00:36:22Z
+pomerium	https://github.com/blackboxprogramming/pomerium	Pomerium is an identity and context-aware access proxy.	false	2026-06-06T05:48:54Z
+cosign	https://github.com/blackboxprogramming/cosign	Code signing and transparency for containers and binaries	false	2026-06-06T05:49:50Z
+qdrant	https://github.com/blackboxprogramming/qdrant	Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/	false	2026-06-06T05:40:05Z
+prefect	https://github.com/blackboxprogramming/prefect	Prefect is a workflow orchestration framework for building resilient data pipelines in Python.	false	2026-06-06T05:46:04Z
+chroma	https://github.com/blackboxprogramming/chroma	Search infrastructure for AI	false	2026-06-06T05:39:48Z
+automerge-repo	https://github.com/blackboxprogramming/automerge-repo		false	2026-06-06T05:47:39Z
+electric	https://github.com/blackboxprogramming/electric	The agent platform built on sync.	false	2026-06-06T06:05:42Z
+opa	https://github.com/blackboxprogramming/opa	Open Policy Agent (OPA) is an open source, general-purpose policy engine.	false	2026-06-06T05:42:49Z
+kratos	https://github.com/blackboxprogramming/kratos	Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 	false	2026-06-06T05:55:20Z
+ibis	https://github.com/blackboxprogramming/ibis	the portable Python dataframe library	false	2026-06-10T00:03:34Z
+nats-server	https://github.com/blackboxprogramming/nats-server	High-Performance server for NATS.io, the cloud and edge native messaging system.	false	2026-06-06T05:44:11Z
+excalidraw	https://github.com/blackboxprogramming/excalidraw	Virtual whiteboard for sketching hand-drawn like diagrams	false	2026-06-06T05:31:23Z
+meilisearch	https://github.com/blackboxprogramming/meilisearch	A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.	false	2026-06-06T05:43:28Z
+traefik	https://github.com/blackboxprogramming/traefik	The Cloud Native Application Proxy	false	2026-06-06T05:45:28Z
+dokku	https://github.com/blackboxprogramming/dokku	A docker-powered PaaS that helps you build and manage the lifecycle of applications	false	2026-06-06T05:39:08Z
+scrapy	https://github.com/blackboxprogramming/scrapy	Scrapy, a fast high-level web crawling & scraping framework for Python.	false	2026-06-06T05:46:39Z
+coolify	https://github.com/blackboxprogramming/coolify	An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.	false	2026-06-06T05:38:41Z
+A2A	https://github.com/blackboxprogramming/A2A	Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.	false	2026-06-10T00:15:43Z
+zitadel	https://github.com/blackboxprogramming/zitadel	ZITADEL - Identity infrastructure, simplified for you.	false	2026-06-06T05:54:54Z
+webauthn	https://github.com/blackboxprogramming/webauthn	FIDO2 Conformant WebAuthn and Passkey backend library for golang	false	2026-06-06T05:46:22Z
+automerge	https://github.com/blackboxprogramming/automerge	A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. 	false	2026-06-06T05:46:14Z
+BehaviorTree.CPP	https://github.com/blackboxprogramming/BehaviorTree.CPP	Behavior Trees Library in C++. Batteries included.	false	2026-06-10T07:18:10Z
+MNN	https://github.com/blackboxprogramming/MNN	MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.	false	2026-06-10T00:16:34Z
+arviz	https://github.com/blackboxprogramming/arviz	Exploratory analysis of Bayesian models with Python	false	2026-06-10T00:17:56Z
+camel	https://github.com/blackboxprogramming/camel	🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org	false	2026-06-10T00:18:57Z
+dex	https://github.com/blackboxprogramming/dex	OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors	false	2026-06-06T05:49:23Z
+afero	https://github.com/blackboxprogramming/afero	The Universal Filesystem Abstraction for Go	false	2026-06-06T05:46:30Z
+code-server	https://github.com/blackboxprogramming/code-server	VS Code in the browser	false	2026-06-06T05:31:00Z
+pouchdb	https://github.com/blackboxprogramming/pouchdb	:kangaroo: - PouchDB is a pocket-sized database.	false	2026-06-06T06:05:10Z
+datashader	https://github.com/blackboxprogramming/datashader	Quickly and accurately render even the largest data.	false	2026-06-10T00:02:49Z
+sdk	https://github.com/blackboxprogramming/sdk	MEGA C++ SDK	false	2026-06-10T07:00:06Z
+fasthttp	https://github.com/blackboxprogramming/fasthttp	Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http	false	2026-06-06T06:24:21Z
+neo	https://github.com/blackboxprogramming/neo	Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.	false	2026-06-04T00:25:41Z
+gin	https://github.com/blackboxprogramming/gin	Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.	false	2026-06-06T05:47:28Z
+yoyo-evolve	https://github.com/blackboxprogramming/yoyo-evolve	A Truman Show of a self-evolving AI coding agent. It writes its own code. Growing up in public.	false	2026-06-04T00:23:39Z
+Rocket.Chat	https://github.com/blackboxprogramming/Rocket.Chat	The Secure CommsOS™ for mission-critical operations	false	2026-06-03T18:51:34Z
+pytorch-image-models	https://github.com/blackboxprogramming/pytorch-image-models	The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more	false	2026-06-09T23:54:55Z
+machinaos	https://github.com/blackboxprogramming/machinaos	Self Evolving Tokens to Work and Dollar Converting AI Employees	false	2026-06-04T00:25:27Z
+eliza	https://github.com/blackboxprogramming/eliza	Open source agentic operating system	false	2026-06-03T19:23:21Z
+asynq	https://github.com/blackboxprogramming/asynq	Simple, reliable, and efficient distributed task queue in Go	false	2026-06-06T05:47:04Z
+isomorphic-git	https://github.com/blackboxprogramming/isomorphic-git	A pure JavaScript implementation of git for node and browsers!	false	2026-06-06T05:43:45Z
+EverOS	https://github.com/blackboxprogramming/EverOS	Self-evolving memory across Agent and platform.	false	2026-06-04T00:19:48Z
+libjs-data	https://github.com/blackboxprogramming/libjs-data		false	2026-06-03T14:57:56Z
+memfs	https://github.com/blackboxprogramming/memfs	Node.js "fs" and browser "File System API" adapters and in-memory implementations 👍	false	2026-06-06T05:50:17Z
+certificates	https://github.com/blackboxprogramming/certificates	🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.	false	2026-06-06T05:50:43Z
+cowagent	https://github.com/blackboxprogramming/cowagent	Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)	false	2026-06-04T00:08:35Z
+celery	https://github.com/blackboxprogramming/celery	Distributed Task Queue (development branch)	false	2026-06-06T05:51:11Z
+btcpayserver	https://github.com/blackboxprogramming/btcpayserver	Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. 	false	2026-06-03T19:15:36Z
+BentoML	https://github.com/blackboxprogramming/BentoML	The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!	false	2026-06-10T00:18:16Z
+files-sdk	https://github.com/blackboxprogramming/files-sdk	A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.	false	2026-06-03T19:21:48Z
+zulip	https://github.com/blackboxprogramming/zulip	Zulip server and web application. Open-source team chat that helps teams stay productive and focused.	false	2026-06-03T18:54:31Z
+zulip-flutter	https://github.com/blackboxprogramming/zulip-flutter	Zulip mobile apps for Android and iOS, using Flutter.	false	2026-06-03T19:01:39Z
+osaurus	https://github.com/blackboxprogramming/osaurus	Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.	false	2026-06-03T01:48:03Z
+headroom	https://github.com/blackboxprogramming/headroom	Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.	false	2026-06-22T07:07:38Z
+lego	https://github.com/blackboxprogramming/lego	Let's Encrypt/ACME client and library written in Go	false	2026-06-06T05:50:35Z
+hermes-agent	https://github.com/blackboxprogramming/hermes-agent	The agent that grows with you	false	2026-06-03T00:36:16Z
+langflow	https://github.com/blackboxprogramming/langflow	Langflow is a powerful tool for building and deploying AI-powered agents and workflows.	false	2026-06-03T00:37:05Z
+electron	https://github.com/blackboxprogramming/electron	:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS	false	2026-06-02T23:26:54Z
+python	https://github.com/blackboxprogramming/python	Docker Official Image packaging for Python	false	2026-06-10T07:57:17Z
+llama.cpp	https://github.com/blackboxprogramming/llama.cpp	LLM inference in C/C++	false	2026-06-03T00:43:25Z
+qwen-code	https://github.com/blackboxprogramming/qwen-code	An open-source AI coding agent that lives in your terminal.	false	2026-06-02T22:39:50Z
+open-computer-use	https://github.com/blackboxprogramming/open-computer-use	MCP server that gives any LLM its own computer — managed Docker workspaces with live browser, terminal, code execution, document skills, and autonomous sub-agents. Self-hosted, open-source, pluggable into any model.	false	2026-06-02T22:51:33Z
+supermemory	https://github.com/blackboxprogramming/supermemory	Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.	false	2026-06-03T04:22:39Z
+dm-haiku	https://github.com/blackboxprogramming/dm-haiku	JAX-based neural network library	false	2026-06-09T23:52:04Z
+ladybug	https://github.com/blackboxprogramming/ladybug	LadybugDB a graph database	false	2026-06-02T23:34:39Z
+opendev	https://github.com/blackboxprogramming/opendev	Open-Source Coding Agent in the terminal	false	2026-06-02T22:42:11Z
+rekor	https://github.com/blackboxprogramming/rekor	Software Supply Chain Transparency Log	false	2026-06-06T05:49:33Z
+xyflow	https://github.com/blackboxprogramming/xyflow	React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.	false	2026-06-06T05:40:55Z
+etcher	https://github.com/blackboxprogramming/etcher	Flash OS images to SD cards & USB drives, safely and easily.	false	2026-07-18T14:48:45Z
+guacamole-client	https://github.com/blackboxprogramming/guacamole-client	The Apache Guacamole web application, official extensions, and JavaScript library.	false	2026-06-06T05:31:13Z
+diffrax	https://github.com/blackboxprogramming/diffrax	Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/	false	2026-06-09T23:52:40Z
+apfel	https://github.com/blackboxprogramming/apfel	The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.	false	2026-06-03T02:07:37Z
+massgen	https://github.com/blackboxprogramming/massgen	🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai	false	2026-06-02T22:53:02Z
+wish	https://github.com/blackboxprogramming/wish	Make SSH apps, just like that! 💫	false	2026-06-06T06:23:39Z
+huh	https://github.com/blackboxprogramming/huh	Build terminal forms and prompts 🤷🏻‍♀️	false	2026-06-06T06:23:08Z
+bubbles	https://github.com/blackboxprogramming/bubbles	TUI components for Bubble Tea 🫧	false	2026-06-06T06:03:32Z
+soft-serve	https://github.com/blackboxprogramming/soft-serve	The mighty, self-hostable Git server for the command line🍦	false	2026-06-06T06:27:21Z
+oauth2-proxy	https://github.com/blackboxprogramming/oauth2-proxy	A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.	false	2026-06-06T05:51:01Z
+waveterm	https://github.com/blackboxprogramming/waveterm	An open-source, AI-integrated, cross-platform terminal for seamless workflows	false	2026-06-02T22:33:16Z
+gopass	https://github.com/blackboxprogramming/gopass	The slightly more awesome standard unix password manager for teams	false	2026-06-03T00:42:23Z
+yjs	https://github.com/blackboxprogramming/yjs	Shared data types for building collaborative software	false	2026-06-06T05:43:00Z
+ramalama	https://github.com/blackboxprogramming/ramalama	RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.	false	2026-06-04T00:11:49Z
+FinGPT	https://github.com/blackboxprogramming/FinGPT	FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.	false	2026-06-10T00:16:29Z
+fulcio	https://github.com/blackboxprogramming/fulcio	Sigstore OIDC PKI	false	2026-06-06T05:49:42Z
+amundsen	https://github.com/blackboxprogramming/amundsen	Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.	false	2026-06-10T00:17:03Z
+awesome-cpp	https://github.com/blackboxprogramming/awesome-cpp	A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.	false	2026-06-10T06:53:40Z
+einops	https://github.com/blackboxprogramming/einops	Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)	false	2026-06-10T00:17:49Z
+lipgloss	https://github.com/blackboxprogramming/lipgloss	Style definitions for nice terminal layouts 👄	false	2026-06-06T06:01:02Z
+linfa	https://github.com/blackboxprogramming/linfa	A Rust machine learning framework.	false	2026-06-09T23:57:51Z
+automaton	https://github.com/blackboxprogramming/automaton	The first AI that can earn its own existence, replicate, and evolve — without needing a human	false	2026-06-04T00:22:41Z
+hive	https://github.com/blackboxprogramming/hive	Multi-Agent Harness for Production AI	false	2026-06-10T00:16:03Z
+vit-pytorch	https://github.com/blackboxprogramming/vit-pytorch	Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch	false	2026-06-09T23:52:58Z
+sni-dns-python-scripts	https://github.com/blackboxprogramming/sni-dns-python-scripts	DNS and SNI python scripts used in my YouTube videos	false	2026-06-15T00:01:29Z
+nadirclaw	https://github.com/blackboxprogramming/nadirclaw	Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenClaw. Saves 40-70% on AI API costs. Self-hosted, no middleman.	false	2026-06-04T00:15:11Z
+docker-zulip	https://github.com/blackboxprogramming/docker-zulip	Container configurations, images, and examples for Zulip.	false	2026-06-03T19:01:24Z
+gpt-researcher	https://github.com/blackboxprogramming/gpt-researcher	An autonomous agent that conducts deep research on any data using any LLM providers	false	2026-06-10T00:17:46Z
+resty	https://github.com/blackboxprogramming/resty	Simple HTTP, REST, and SSE client library for Go	false	2026-06-06T06:24:07Z
+ProxyAI	https://github.com/blackboxprogramming/ProxyAI	The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.	false	2026-06-10T00:18:50Z
+ACE-Step-1.5	https://github.com/blackboxprogramming/ACE-Step-1.5	The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.	false	2026-06-10T00:15:58Z
+yaml-cpp	https://github.com/blackboxprogramming/yaml-cpp	A YAML parser and emitter in C++	false	2026-06-10T07:04:15Z
+tcell	https://github.com/blackboxprogramming/tcell	Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.	false	2026-06-06T06:28:05Z
+FinRL	https://github.com/blackboxprogramming/FinRL	FinRL®:  Financial Reinforcement Learning. 🔥	false	2026-06-10T00:16:21Z
+ScienceClaw	https://github.com/blackboxprogramming/ScienceClaw	🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.	false	2026-06-04T00:23:13Z
+colly	https://github.com/blackboxprogramming/colly	Elegant Scraper and Crawler Framework for Golang	false	2026-06-06T05:44:01Z
+neon	https://github.com/blackboxprogramming/neon	Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.	false	2026-07-18T15:50:57Z
+semantic-router	https://github.com/blackboxprogramming/semantic-router	Superfast AI decision making and intelligent processing of multi-modal data.	false	2026-06-10T00:17:59Z
+wireguard-go	https://github.com/blackboxprogramming/wireguard-go	Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go	false	2026-06-14T17:17:04Z
+killbill	https://github.com/blackboxprogramming/killbill	Open-Source Subscription Billing & Payments Platform	false	2026-06-03T19:15:22Z
+celeste-python	https://github.com/blackboxprogramming/celeste-python	Open source, type-safe primitives for multi-modal AI. All modelities, all providers, one interface 🌟	false	2026-06-04T00:13:34Z
+chi	https://github.com/blackboxprogramming/chi	lightweight, idiomatic and composable router for building Go HTTP services	false	2026-06-06T05:47:13Z
+aider	https://github.com/blackboxprogramming/aider	aider is AI pair programming in your terminal	false	2026-06-10T00:16:44Z
+openlens	https://github.com/blackboxprogramming/openlens	iOS companion app for OpenCode- chat with your AI coding assistant from your phone	false	2026-06-03T02:20:31Z
+deeplake	https://github.com/blackboxprogramming/deeplake	Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.	false	2026-06-10T00:16:08Z
+password-manager-resources	https://github.com/blackboxprogramming/password-manager-resources	A place for creators and users of password managers to collaborate on resources to make password management better.	false	2026-06-03T00:41:32Z
+aiproxyswift	https://github.com/blackboxprogramming/aiproxyswift	Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend	false	2026-06-14T17:58:08Z
+python-zulip-api	https://github.com/blackboxprogramming/python-zulip-api	Python library for the Zulip API.	false	2026-06-03T19:01:32Z
+zulip-desktop	https://github.com/blackboxprogramming/zulip-desktop	Zulip Desktop client for Mac, Windows and Linux.	false	2026-06-03T18:55:29Z
+luigi	https://github.com/blackboxprogramming/luigi	Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 	false	2026-06-10T00:06:50Z
+spacy	https://github.com/blackboxprogramming/spacy	💫 Industrial-strength Natural Language Processing (NLP) in Python	false	2026-06-09T23:59:01Z
+ltx-video-mac	https://github.com/blackboxprogramming/ltx-video-mac	Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon	false	2026-06-03T02:11:17Z
+caprover	https://github.com/blackboxprogramming/caprover	Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids	false	2026-06-06T05:38:54Z
+sqlite-vec	https://github.com/blackboxprogramming/sqlite-vec	A vector search SQLite extension that runs anywhere!	false	2026-06-10T00:17:43Z
+UI-TARS-desktop	https://github.com/blackboxprogramming/UI-TARS-desktop	The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra	false	2026-06-03T18:46:26Z
+marigold-site	https://github.com/blackboxprogramming/marigold-site		false	2026-05-18T00:07:08Z
+Mezzano	https://github.com/blackboxprogramming/Mezzano	An operating system written in Common Lisp	false	2026-06-03T18:15:59Z
+Awesome-Self-Evolving-Agents	https://github.com/blackboxprogramming/Awesome-Self-Evolving-Agents	[Survey] A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems	false	2026-06-04T00:21:57Z
+x-algorithm	https://github.com/blackboxprogramming/x-algorithm	Algorithm powering the For You feed on X	false	2026-07-18T15:18:42Z
+NextChat	https://github.com/blackboxprogramming/NextChat	✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows	false	2026-06-10T00:19:13Z
+orla	https://github.com/blackboxprogramming/orla	An open-source high performance execution engine for agentic workflows	false	2026-06-02T22:56:04Z
+terminal	https://github.com/blackboxprogramming/terminal	Open-source Polymarket terminal — live book, trader leaderboard, self-custodial trading. No fees, no relayer, no builder credentials.	false	2026-06-02T22:45:14Z
+gum	https://github.com/blackboxprogramming/gum	A tool for glamorous shell scripts 🎀	false	2026-06-06T06:23:23Z
+fsnotify	https://github.com/blackboxprogramming/fsnotify	Cross-platform filesystem notifications for Go.	false	2026-06-06T06:23:52Z
+go-echarts	https://github.com/blackboxprogramming/go-echarts	🎨 The adorable charts library for Golang.	false	2026-06-06T06:24:32Z
+FinRobot	https://github.com/blackboxprogramming/FinRobot	FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 	false	2026-06-10T00:16:11Z
+gluonts	https://github.com/blackboxprogramming/gluonts	Probabilistic time series modeling in Python	false	2026-06-10T00:18:14Z
+kohya_ss	https://github.com/blackboxprogramming/kohya_ss		false	2026-06-10T00:18:34Z
+optillm	https://github.com/blackboxprogramming/optillm	Optimizing inference proxy for LLMs	false	2026-06-10T00:16:47Z
+Protenix	https://github.com/blackboxprogramming/Protenix	Toward High-Accuracy Open-Source Biomolecular Structure Prediction.	false	2026-06-10T00:18:39Z
+gemini	https://github.com/blackboxprogramming/gemini	The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google	false	2026-06-04T00:11:27Z
+vhs	https://github.com/blackboxprogramming/vhs	Your CLI home video recorder 📼	false	2026-06-06T06:04:58Z
+jakt	https://github.com/blackboxprogramming/jakt	The Jakt Programming Language	false	2026-06-03T14:56:49Z
+modelzoo	https://github.com/blackboxprogramming/modelzoo		false	2026-06-10T00:19:07Z
+manpages-website	https://github.com/blackboxprogramming/manpages-website		false	2026-06-03T14:57:29Z
+FastChat	https://github.com/blackboxprogramming/FastChat	An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.	false	2026-07-18T14:36:37Z
+zulipbot	https://github.com/blackboxprogramming/zulipbot	GitHub workflow-optimizing bot by @zulip	false	2026-06-03T19:01:47Z
+ai-research-skills	https://github.com/blackboxprogramming/ai-research-skills	Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.	false	2026-06-04T00:10:47Z
+zulint	https://github.com/blackboxprogramming/zulint	A lightweight linting framework designed for complex applications using a mix of third-party linters and custom rules.	false	2026-06-03T19:01:55Z
+serenityos.org	https://github.com/blackboxprogramming/serenityos.org	SerenityOS.org website	false	2026-06-03T14:58:28Z
+melt	https://github.com/blackboxprogramming/melt	Backup and restore Ed25519 SSH keys with seed words 🫠	false	2026-06-06T06:28:32Z
+glow	https://github.com/blackboxprogramming/glow	Render markdown on the CLI, with pizzazz! 💅🏻	false	2026-06-06T06:03:50Z
+Hands-On-Large-Language-Models	https://github.com/blackboxprogramming/Hands-On-Large-Language-Models	Official code repo for the O'Reilly Book - "Hands-On Large Language Models"	false	2026-07-18T15:07:11Z
+curator	https://github.com/blackboxprogramming/curator	Synthetic data curation for post-training and structured data extraction	false	2026-06-10T00:18:32Z
+textattack	https://github.com/blackboxprogramming/textattack	TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/	false	2026-06-10T00:07:58Z
+distributed-llama	https://github.com/blackboxprogramming/distributed-llama	Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.	false	2026-06-10T00:18:04Z
+Euzebia3D	https://github.com/blackboxprogramming/Euzebia3D		false	2026-04-14T06:37:13Z
+awesome-cli-apps	https://github.com/blackboxprogramming/awesome-cli-apps	🖥 📊 🕹 🛠 A curated list of command line apps	false	2026-04-12T23:02:27Z
+sweetviz	https://github.com/blackboxprogramming/sweetviz	Visualize and compare datasets, target values and associations, with one line of code.	false	2026-06-10T00:07:47Z
+Claudable	https://github.com/blackboxprogramming/Claudable	Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.	false	2026-04-14T05:14:46Z
+be-more-agent	https://github.com/blackboxprogramming/be-more-agent	Local AI Agent running on Raspberry Pi	false	2026-06-10T06:34:12Z
+mac-code	https://github.com/blackboxprogramming/mac-code	mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. 	false	2026-04-14T05:15:37Z
+OpenAPI-Specifications	https://github.com/blackboxprogramming/OpenAPI-Specifications	The official Docusign REST APIs Swagger Specifications	false	2026-04-13T21:40:30Z
+api.congress.gov	https://github.com/blackboxprogramming/api.congress.gov	congress.gov API	false	2026-04-13T13:16:50Z
+724-office	https://github.com/blackboxprogramming/724-office	7/24 Office — Self-evolving AI Agent system. 36 tools, 10,000 lines pure Python, modular architecture, MCP plugins, three-layer memory, nudge system, AI mirror, 24/7 production.	false	2026-06-04T00:24:17Z
+Open-Sora	https://github.com/blackboxprogramming/Open-Sora	Open-Sora: Democratizing Efficient Video Production for All	false	2026-07-18T15:02:24Z
+bagit-python	https://github.com/blackboxprogramming/bagit-python	Work with BagIt packages from Python.	false	2026-04-13T13:18:08Z
+my-virtual-office	https://github.com/blackboxprogramming/my-virtual-office	A self-hosted retro pixel-art AI workspace for OpenClaw	false	2026-04-08T10:14:10Z
+prowl	https://github.com/blackboxprogramming/prowl	An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor	false	2026-04-08T08:55:40Z
+godot	https://github.com/blackboxprogramming/godot	Godot Engine – Multi-platform 2D and 3D game engine	false	2026-04-08T08:54:26Z
+tank-convert	https://github.com/blackboxprogramming/tank-convert	Repo with everything you need (- the Lineage) to convert a 2nd gen Amazon Fire Stick to Lineage 12/Android 5.1 (clean Android TV!)	false	2026-04-12T01:35:51Z
+lumixengine	https://github.com/blackboxprogramming/lumixengine	3D C++ Game Engine - yet another open source game engine	false	2026-04-08T08:56:15Z
+echomimic	https://github.com/blackboxprogramming/echomimic	[AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning	false	2026-06-10T00:17:05Z
+FirePlayer	https://github.com/blackboxprogramming/FirePlayer	Mediaplayer for Amazon Firestick and UwebServer as HTTP Range Streamer	false	2026-04-12T01:36:15Z
+Skill_Seekers	https://github.com/blackboxprogramming/Skill_Seekers	Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection	false	2026-04-08T19:00:30Z
+pixelwheels	https://github.com/blackboxprogramming/pixelwheels	A top-down retro racing game for PC (Linux, macOS, Windows) and Android. 	false	2026-04-08T09:33:27Z
+xray-16	https://github.com/blackboxprogramming/xray-16	Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)	false	2026-04-09T20:12:29Z
+open-saas	https://github.com/blackboxprogramming/open-saas	A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.	false	2026-04-14T05:16:54Z
+dockmate	https://github.com/blackboxprogramming/dockmate	Dockmate: The open-source Docker TUI & Podman manager for terminal productivity. A fast, lightweight alternative to lazydocker built in Go.	false	2026-06-02T22:57:41Z
+tech-interview-handbook	https://github.com/blackboxprogramming/tech-interview-handbook	Curated coding interview preparation materials for busy software engineers	false	2026-06-03T00:38:39Z
+claude-autowake	https://github.com/blackboxprogramming/claude-autowake	Start's claude code's 5 hour limit at the most efficient time to maximize usage	false	2026-04-23T01:30:37Z
+GameBoyWorlds	https://github.com/blackboxprogramming/GameBoyWorlds	Building Intelligent and General GameBoy Agents	false	2026-04-08T09:14:48Z
+ncine	https://github.com/blackboxprogramming/ncine	A cross-platform 2D game engine	false	2026-04-08T08:56:37Z
+LocalAI	https://github.com/blackboxprogramming/LocalAI	LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.	false	2026-04-04T19:36:21Z
+three.js	https://github.com/blackboxprogramming/three.js	JavaScript 3D Library.	false	2026-04-04T19:37:33Z
+monaco-editor	https://github.com/blackboxprogramming/monaco-editor	A browser based code editor	false	2026-04-04T19:37:23Z
+atopile	https://github.com/blackboxprogramming/atopile	Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️	false	2026-06-10T06:30:05Z
+engine	https://github.com/blackboxprogramming/engine	Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF	false	2026-04-04T19:39:06Z
+xterm.js	https://github.com/blackboxprogramming/xterm.js	A terminal for the web	false	2026-04-04T19:36:54Z
+open-r1	https://github.com/blackboxprogramming/open-r1	Fully open reproduction of DeepSeek-R1	false	2026-07-18T15:21:27Z
+vaex	https://github.com/blackboxprogramming/vaex	Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀	false	2026-06-10T00:02:39Z
+leaked-claude-code	https://github.com/blackboxprogramming/leaked-claude-code	[ LEAKED | LEAK ] Claude Code source code. full claude code opensource.	true	2026-09-21T00:15:02Z
+opensign	https://github.com/blackboxprogramming/opensign	🔥 The free & Open Source DocuSign alternative	false	2026-04-13T00:48:31Z
+ralph-claude-code	https://github.com/blackboxprogramming/ralph-claude-code	Autonomous AI development loop for Claude Code with intelligent exit detection	false	2026-03-31T20:55:01Z
+goboy	https://github.com/blackboxprogramming/goboy	Multi-platform Nintendo Game Boy Color emulator written in Go	false	2026-04-09T02:53:59Z
+mcp	https://github.com/blackboxprogramming/mcp	Google 💚 MCP	false	2026-04-12T19:57:00Z
+OmniEvalKit	https://github.com/blackboxprogramming/OmniEvalKit	OmniEvalKit is an evaluation framework designed for omni-modal large language models, with a focus on audio and audio-visual understanding. Based on OmniEvalKit, you can quickly reproduce benchmarks, implement your own models or datasets, and conduct fair comparisons with other open-source models. MiniCPM-o is evaluated using this framework.	false	2026-07-09T18:36:54Z
+houdini	https://github.com/blackboxprogramming/houdini	A Club Penguin private server written in Python 3 	false	2026-04-09T03:13:56Z
+calc2keycewireless	https://github.com/blackboxprogramming/calc2keycewireless		false	2026-04-13T12:56:44Z
+docusign-esign-node-client	https://github.com/blackboxprogramming/docusign-esign-node-client	The Official Docusign Node.js Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.	false	2026-04-13T00:47:27Z
+Airtest	https://github.com/blackboxprogramming/Airtest	UI Automation Framework for Games and Apps	false	2026-07-18T20:09:20Z
+awesome-raspberry-pi	https://github.com/blackboxprogramming/awesome-raspberry-pi	📝 A curated list of awesome Raspberry Pi tools, projects, images and resources	false	2026-03-29T13:45:42Z
+ai-town	https://github.com/blackboxprogramming/ai-town	A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.	false	2026-06-10T00:15:50Z
+agentops	https://github.com/blackboxprogramming/agentops	Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI	false	2026-06-10T00:16:24Z
+omnicoreagent	https://github.com/blackboxprogramming/omnicoreagent	OmniCoreAgent is a powerful Python framework for building autonomous AI agents that think, reason, and execute complex tasks. Production-ready agents that use tools, manage memory, coordinate workflows, and handle real-world business logic.	false	2026-04-08T09:19:38Z
+docusign-esign-csharp-client	https://github.com/blackboxprogramming/docusign-esign-csharp-client	The Official Docusign C# Client Library used to interact with the eSignature REST API. Send, sign, and approve documents using this client.	false	2026-04-13T00:47:07Z
+chatGPTBox	https://github.com/blackboxprogramming/chatGPTBox	Integrating ChatGPT into your browser deeply, everything you need is here	false	2026-04-12T20:00:49Z
+tview	https://github.com/blackboxprogramming/tview	Terminal UI library with rich, interactive widgets — written in Golang	false	2026-06-06T06:27:40Z
+docusign-esign-php-client	https://github.com/blackboxprogramming/docusign-esign-php-client	The Official Docusign PHP Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.	false	2026-04-13T00:47:16Z
+docusign-esign-python-client	https://github.com/blackboxprogramming/docusign-esign-python-client	The Official DocuSign Python Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client. https://www.docusign.com/devcenter	false	2026-04-13T00:47:46Z
+docusign-esign-ruby-client	https://github.com/blackboxprogramming/docusign-esign-ruby-client	The Official DocuSign Ruby Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.	false	2026-04-13T00:47:59Z
+git-mcp	https://github.com/blackboxprogramming/git-mcp	Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project	false	2026-04-14T05:14:59Z
+airllm	https://github.com/blackboxprogramming/airllm	AirLLM 70B inference with single 4GB GPU	false	2026-06-04T00:03:23Z
+BLACKROAD-OS-MASTER	https://github.com/blackboxprogramming/BLACKROAD-OS-MASTER	Master configuration and credentials for BlackRoad OS fleet	true	2026-03-23T00:43:24Z
+webview	https://github.com/blackboxprogramming/webview	Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).	false	2026-06-10T07:01:55Z
+Freenove_Big_Hexapod_Robot_Kit_for_Raspberry_Pi	https://github.com/blackboxprogramming/Freenove_Big_Hexapod_Robot_Kit_for_Raspberry_Pi	Apply to FNK0052	false	2026-04-12T01:04:55Z
+hexstrike-ai	https://github.com/blackboxprogramming/hexstrike-ai	HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.	false	2026-04-12T01:03:29Z
+Open-AutoGLM	https://github.com/blackboxprogramming/Open-AutoGLM	An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone	false	2026-07-18T15:39:32Z
+artwork	https://github.com/blackboxprogramming/artwork	Graphics, sounds and other artwork created for the SerenityOS project	false	2026-06-03T14:59:11Z
+openadapt	https://github.com/blackboxprogramming/openadapt	Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models	false	2026-06-04T00:07:41Z
+Esign	https://github.com/blackboxprogramming/Esign	Esign is a tool used for signing iPA apps with Apple Developer/Distribution certificates and installing them. iOS 26,18,17	false	2026-04-13T00:46:49Z
+eufy-robovac	https://github.com/blackboxprogramming/eufy-robovac	NodeJS library to control Eufy RoboVac	false	2026-09-14T17:16:56Z
+pixel-claw	https://github.com/blackboxprogramming/pixel-claw	 Pixel art virtual office that visualizes OpenClaw AI agent sessions in real time. Walk around, monitor agents working across integrated channels, chat with them, and control sessions — all from a retro game interface.	false	2026-04-09T03:09:52Z
+OfficeVerse-	https://github.com/blackboxprogramming/OfficeVerse-	🏢 A gamified virtual office ecosystem featuring real-time multiplayer sync, AI-powered assistants, P2P voice calls, and customizable personas. Redefining remote work through interaction.	false	2026-04-08T10:12:21Z
+pico-os	https://github.com/blackboxprogramming/pico-os	an operating system for the Raspberry Pi Pico	false	2026-06-10T05:35:53Z
+phoneagent	https://github.com/blackboxprogramming/phoneagent	An AI agent that can get things done across iPhone apps.	false	2026-06-03T01:50:06Z
+movrax	https://github.com/blackboxprogramming/movrax	Military-Grade Persistent Memory Operating System	false	2026-06-10T05:55:20Z
+de-franchise-tax-payer	https://github.com/blackboxprogramming/de-franchise-tax-payer	Pay Delaware franchise tax from the command line	false	2026-04-15T00:29:03Z
+lottie-android	https://github.com/blackboxprogramming/lottie-android	Render After Effects animations natively on Android and iOS, Web, and React Native	false	2026-07-18T14:43:47Z
+ChatALL	https://github.com/blackboxprogramming/ChatALL	 Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers	false	2026-06-10T00:16:13Z
+modin	https://github.com/blackboxprogramming/modin	Modin: Scale your Pandas workflows by changing a single line of code	false	2026-06-10T00:01:22Z
+Freenove_Hexapod_Robot_Kit	https://github.com/blackboxprogramming/Freenove_Hexapod_Robot_Kit	Apply to FNK0029, FNK0031	false	2026-04-12T01:05:28Z
+talon	https://github.com/blackboxprogramming/talon		false	2026-06-03T19:02:03Z
+trae-agent	https://github.com/blackboxprogramming/trae-agent	Trae Agent is an LLM-based agent for general purpose software engineering tasks.	false	2026-06-10T00:18:55Z
+docusign-esign-java-client	https://github.com/blackboxprogramming/docusign-esign-java-client	The Official Docusign Java Client Library used to interact with the eSignature REST API. Send, sign, and approve documents using this client.	false	2026-04-13T00:47:37Z
+claude-office	https://github.com/blackboxprogramming/claude-office	Claude sessions simulation as office	false	2026-04-09T03:05:18Z
+zulip-terminal	https://github.com/blackboxprogramming/zulip-terminal	Official Zulip terminal client.	false	2026-06-03T18:56:38Z
+Esign-iOS	https://github.com/blackboxprogramming/Esign-iOS	Download Esign iOS 26 IPA signing tool – install IPAs without jailbreak or PC. Sign apps easily on iPhone, iPad with fast, stable certificate support.	false	2026-04-13T00:48:19Z
+Mandelbrot.site	https://github.com/blackboxprogramming/Mandelbrot.site	Explore the Mandelbrot set fractal online in your web browser. Built with Rust, Wasm, and TypeScript.	false	2026-04-08T23:25:07Z
+KIV-RTOS	https://github.com/blackboxprogramming/KIV-RTOS	Sources and documents for KIV/OS (Operating Systems) course - development of Raspberry Pi Zero W (BCM2835) operating system.	false	2026-06-10T05:44:44Z
+JobSystem	https://github.com/blackboxprogramming/JobSystem	Typhoon JobSystem is a library for scheduling and executing jobs, either on a single thread or concurrently on multiple threads. It is intended for use in games or other realtime applications with tight performance and memory consumption constraints.	false	2026-06-10T07:29:22Z
+ElevenLabsKit	https://github.com/blackboxprogramming/ElevenLabsKit	Swift SDK to stream ElevenLabs Voices	false	2026-04-11T00:15:16Z
+talking-avatar-with-ai	https://github.com/blackboxprogramming/talking-avatar-with-ai	This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.	false	2026-04-11T00:16:09Z
+FastApps	https://github.com/blackboxprogramming/FastApps	⚡ The fastest way to build Apps in ChatGPT	false	2026-04-08T19:12:08Z
+10x	https://github.com/blackboxprogramming/10x	⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fully self-hosted.	false	2026-06-04T00:12:49Z
+json-tui	https://github.com/blackboxprogramming/json-tui	A JSON terminal UI made in C++	false	2026-06-10T07:51:36Z
+zulip-archive	https://github.com/blackboxprogramming/zulip-archive	Generate a static HTML archive of messages in any combination of streams in a Zulip organization.	false	2026-06-03T19:02:11Z
+rerankers	https://github.com/blackboxprogramming/rerankers	A lightweight, low-dependency, unified API to use all common reranking and cross-encoder models.	false	2026-06-10T00:16:57Z
+SkyOffice	https://github.com/blackboxprogramming/SkyOffice	Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus.	false	2026-04-08T10:07:31Z
+watchtower	https://github.com/blackboxprogramming/watchtower	A process for automating Docker container base image updates. 	false	2026-07-18T15:45:04Z
+openfold	https://github.com/blackboxprogramming/openfold	Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2	false	2026-06-10T00:17:20Z
+palaeograph	https://github.com/blackboxprogramming/palaeograph	Paleograph is a browser-based 3D viewer built for archaeologists who need to explore tabular measurement datasets.	false	2026-04-08T19:34:29Z
+zulip-js	https://github.com/blackboxprogramming/zulip-js	Javascript library to access the Zulip API	false	2026-06-03T19:02:19Z
+retentioneering-tools	https://github.com/blackboxprogramming/retentioneering-tools	Retentioneering: product analytics, data-driven CJM optimization, marketing analytics, web analytics, transaction analytics, graph visualization, process mining, and behavioral segmentation in Python. Predictive analytics over clickstream, AB tests, machine learning, and Markov Chain simulations.	false	2026-04-08T23:25:09Z
+collatz	https://github.com/blackboxprogramming/collatz	inspired by veritasium video	false	2026-04-08T23:14:39Z
+chrome2nas	https://github.com/blackboxprogramming/chrome2nas		false	2026-04-08T19:09:50Z
+code-screenshot-mcp	https://github.com/blackboxprogramming/code-screenshot-mcp	MCP server for generating beautiful code screenshots directly from Claude	false	2026-04-08T19:38:18Z
+TraceAnything	https://github.com/blackboxprogramming/TraceAnything	[ICLR 2026] Trace Anything: Representing Any Video in 4D via Trajectory Fields	false	2026-04-08T19:04:49Z
+coro-code	https://github.com/blackboxprogramming/coro-code	Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.	false	2026-04-14T05:15:54Z
+cmdk	https://github.com/blackboxprogramming/cmdk	Fast, unstyled command menu React component.	false	2026-06-06T05:43:15Z
+PhoneDriver	https://github.com/blackboxprogramming/PhoneDriver	Android Phone Control With Qwen3-VL	false	2026-04-08T19:36:01Z
+pixel-plugin	https://github.com/blackboxprogramming/pixel-plugin	Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export.	false	2026-04-08T09:37:22Z
+tiny-world	https://github.com/blackboxprogramming/tiny-world	A tiny, slow-paced world and colony building game.	false	2026-04-08T09:15:25Z
+ssh-dashboard	https://github.com/blackboxprogramming/ssh-dashboard	Monitor GPU/CPU Usage on SSH servers, with NVIDIA and AMD support.	false	2026-04-08T19:11:31Z
+puppet-zulip	https://github.com/blackboxprogramming/puppet-zulip	Puppet report handler for Zulip	false	2026-06-03T19:02:27Z
+errbot-backend-zulip	https://github.com/blackboxprogramming/errbot-backend-zulip	Zulip backend for err.	false	2026-06-03T19:02:35Z
+libgraphqlparser	https://github.com/blackboxprogramming/libgraphqlparser	A GraphQL query parser in C++ with C and C++ APIs	false	2026-06-10T07:09:05Z
+mitie	https://github.com/blackboxprogramming/mitie	MITIE: library and tools for information extraction	false	2026-06-03T04:29:38Z
+discord-bot	https://github.com/blackboxprogramming/discord-bot	Discord Bot for the Serenity Operating System Community 🐞	false	2026-06-03T14:59:34Z
+zulip-architecture	https://github.com/blackboxprogramming/zulip-architecture	Zulip architecture proposals	false	2026-06-03T19:02:43Z
+aiolos	https://github.com/blackboxprogramming/aiolos	A floating panel for your iOS Apps	false	2026-06-03T01:46:38Z
+gptoss-proxy	https://github.com/blackboxprogramming/gptoss-proxy	Unlimited gpt-oss api openai compatible	false	2026-06-04T00:18:42Z
+ozymandias	https://github.com/blackboxprogramming/ozymandias	A town-builder game about adventurer-related chaos made in Unity	false	2026-04-08T16:31:29Z
+youtube-automation-agent	https://github.com/blackboxprogramming/youtube-automation-agent	🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!	false	2026-04-14T05:16:27Z
+Aerial	https://github.com/blackboxprogramming/Aerial	Apple TV Aerial Screensaver for Mac	false	2026-04-12T01:36:53Z
+awesome-artificial-intelligence	https://github.com/blackboxprogramming/awesome-artificial-intelligence	A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.	false	2026-03-29T13:45:44Z
+RetroGB	https://github.com/blackboxprogramming/RetroGB	A Game Boy Emulator written entirely in C++	false	2026-06-10T07:34:53Z
+CasaOS	https://github.com/blackboxprogramming/CasaOS	CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.	false	2026-07-18T14:41:47Z
+dirent	https://github.com/blackboxprogramming/dirent	C/C++ library for retrieving information on files and directories	false	2026-06-10T07:05:54Z
+jetson-orin-kernel-builder	https://github.com/blackboxprogramming/jetson-orin-kernel-builder	Build the Linux kernel and modules on board the Jetson AGX Orin, Orin Nano or Orin NX	false	2026-06-03T04:37:06Z
+foundationchat	https://github.com/blackboxprogramming/foundationchat	A chat app with iOS 26 Foundation Models	false	2026-06-03T01:51:00Z
+zeqlplus	https://github.com/blackboxprogramming/zeqlplus	Open Source Terminal SQLite Database Browser	false	2026-06-02T22:49:35Z
+zulip-mobile	https://github.com/blackboxprogramming/zulip-mobile	Legacy Zulip mobile apps for Android and iOS	false	2026-06-03T18:53:32Z
+lullaby	https://github.com/blackboxprogramming/lullaby	A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences	false	2026-06-10T06:19:58Z
+openvoice	https://github.com/blackboxprogramming/openvoice	Instant voice cloning by MIT and MyShell. Audio foundation model.	false	2026-06-03T04:30:19Z
+marketplace-partners	https://github.com/blackboxprogramming/marketplace-partners	Image validation, automation, and other tools for DigitalOcean Marketplace partners and Custom Image users	false	2026-06-03T19:02:51Z
+ElevenLabs-Clone	https://github.com/blackboxprogramming/ElevenLabs-Clone	A self-hosted ElevenLabs clone for text-to-speech, voice conversion, and AI audio generation with Docker, FastAPI, and Next.js. 🔊🎙️💡💻	false	2026-04-11T00:14:52Z
+react-diagrams	https://github.com/blackboxprogramming/react-diagrams	a super simple, no-nonsense diagramming library written in react that just works	false	2026-06-06T05:46:50Z
+SocialMedia-App	https://github.com/blackboxprogramming/SocialMedia-App	A fully functional social media app built with flutter with multiple features	false	2026-06-03T19:28:15Z
+Pico3D	https://github.com/blackboxprogramming/Pico3D	Open World 3D Game Engine for the PicoSystem & RP2040 Microcontroller	false	2026-03-27T17:48:09Z
+eufy-robot-vac-sdk	https://github.com/blackboxprogramming/eufy-robot-vac-sdk	Node.js library for controlling Eufy robot vacuums through the Tuya API.	false	2026-09-14T17:19:03Z
+tree-sitter-jakt	https://github.com/blackboxprogramming/tree-sitter-jakt	Tree-sitter for the Jakt Programming Language	false	2026-06-03T14:59:55Z
+pixiu	https://github.com/blackboxprogramming/pixiu	This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).	false	2026-06-04T00:13:48Z
+Mini-Games-CPP	https://github.com/blackboxprogramming/Mini-Games-CPP	Mini-games written in Modern C++.	false	2026-06-10T07:26:19Z
+Pentaract	https://github.com/blackboxprogramming/Pentaract	Unlimited file cloud storage based on using Telegram API	false	2026-06-03T19:20:28Z
+wgctrl-go	https://github.com/blackboxprogramming/wgctrl-go	Package wgctrl enables control of WireGuard interfaces on multiple platforms.	false	2026-06-14T17:16:34Z
+Alfa-AI-Agent-LLC-Formation-Assistant	https://github.com/blackboxprogramming/Alfa-AI-Agent-LLC-Formation-Assistant	Alfa is an advanced AI agent designed to guide small business owners through the LLC formation process while acting as a strategic virtual CEO. This platform combines intuitive user interfaces with powerful AI capabilities to provide comprehensive business formation and management support.	false	2026-04-15T00:29:04Z
+rn-fetch-blob	https://github.com/blackboxprogramming/rn-fetch-blob	Zulip's maintenance branch of NPM package rn-fetch-blob, used in legacy zulip-mobile app	false	2026-06-03T19:02:58Z
+pip	https://github.com/blackboxprogramming/pip	The Python package installer	false	2026-06-03T19:03:07Z
+django-stubs	https://github.com/blackboxprogramming/django-stubs	PEP-484 stubs for Django	false	2026-06-03T19:03:16Z
+dart-fake_async	https://github.com/blackboxprogramming/dart-fake_async	Fake asynchronous events for deterministic testing.	false	2026-06-03T19:03:25Z
+react-native	https://github.com/blackboxprogramming/react-native	Zulip-maintained versions of React Native.	false	2026-06-09T17:53:12Z
+grok-1	https://github.com/blackboxprogramming/grok-1	Grok open release	false	2026-07-18T14:26:49Z
+Open-Assistant	https://github.com/blackboxprogramming/Open-Assistant	OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.	false	2026-07-18T14:38:36Z
+winbox	https://github.com/blackboxprogramming/winbox	WinBox is a modern HTML5 window manager for the Web.	false	2026-04-04T19:36:31Z
+llama2.c	https://github.com/blackboxprogramming/llama2.c	Inference Llama 2 in one file of pure C	false	2026-06-10T07:10:13Z
+Multiprogramming-Operating-System	https://github.com/blackboxprogramming/Multiprogramming-Operating-System	This repository hosts a C++ implementation of a multiprogramming operating system simulation. The OS efficiently handles various jobs, manages errors like time limit exceeded and line limit exceeded, and incorporates virtual memory with segmentation. This project serves as a comprehensive simulation of an operating system environment.	false	2026-06-10T05:41:00Z
+aws-robomaker-small-warehouse-world	https://github.com/blackboxprogramming/aws-robomaker-small-warehouse-world	This Gazebo world is well suited for organizations who are building and testing robot applications for warehouse and logistics use cases.	false	2026-04-08T09:08:55Z
+zulip-android-legacy	https://github.com/blackboxprogramming/zulip-android-legacy	Legacy Zulip Android app	false	2026-06-03T19:03:42Z
+bert	https://github.com/blackboxprogramming/bert	TensorFlow code and pre-trained models for BERT	false	2026-07-18T14:35:27Z
+Gemini-agent-example	https://github.com/blackboxprogramming/Gemini-agent-example	An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am free)	false	2026-04-14T05:16:12Z
+AppShift-MemoryPool	https://github.com/blackboxprogramming/AppShift-MemoryPool	A very fast cross-platform memory pool mechanism for C++ built using a data-oriented approach (3 to 24 times faster than regular new or delete, depending on operating system & compiler)	false	2026-06-10T05:56:57Z
+Quirk	https://github.com/blackboxprogramming/Quirk	A drag-and-drop quantum circuit simulator that runs in your browser. A toy for exploring and understanding small quantum circuits.	false	2026-04-08T23:25:02Z
+libjs-website	https://github.com/blackboxprogramming/libjs-website		false	2026-06-03T15:00:25Z
+ga	https://github.com/blackboxprogramming/ga	The world's tiniest, cutest and funnest game engine	false	2026-04-09T20:14:43Z
+pixel	https://github.com/blackboxprogramming/pixel	A hand-crafted 2D game library in Go	false	2026-04-08T09:32:16Z
+aws-robomaker-hospital-world	https://github.com/blackboxprogramming/aws-robomaker-hospital-world	This Gazebo world is well suited for organizations who are building and testing robot applications in hospitals.	false	2026-04-08T09:10:11Z
+roboticscode	https://github.com/blackboxprogramming/roboticscode	code for freenove hexapod robot kit	false	2026-04-12T01:32:17Z
+pi-pin	https://github.com/blackboxprogramming/pi-pin	Pi Pin - Open-source AI Wearable based on Raspberry Pi	false	2026-06-10T06:43:22Z
+xi-editor	https://github.com/blackboxprogramming/xi-editor	A modern editor with a backend written in Rust.	false	2026-07-18T16:02:30Z
+ReplikaAPI	https://github.com/blackboxprogramming/ReplikaAPI	Replika API	false	2026-04-10T02:22:04Z
+zoneinfo	https://github.com/blackboxprogramming/zoneinfo	Reference implementation for the proposed standard library module zoneinfo	false	2026-06-03T19:03:50Z
+theming	https://github.com/blackboxprogramming/theming	Theming for SerenityOS	false	2026-06-03T15:00:49Z
+EventBus	https://github.com/blackboxprogramming/EventBus	Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.	false	2026-07-18T15:44:11Z
+libjs-test262	https://github.com/blackboxprogramming/libjs-test262		false	2026-06-03T15:01:14Z
+zulip-redmine-plugin	https://github.com/blackboxprogramming/zulip-redmine-plugin	Redmine plugin for Zulip notifications on issue tracker changes	false	2026-06-03T19:04:01Z
+SerenityOS-DSL-Plugin	https://github.com/blackboxprogramming/SerenityOS-DSL-Plugin	A plugin that provides syntax highlighting for various SerenityOS-specific file types	false	2026-06-10T06:16:21Z
+arm64-kvm-hello-world	https://github.com/blackboxprogramming/arm64-kvm-hello-world	A bare metal AArch64 hello-world program, that is run in a KVM  AArch64 VM.	false	2026-06-10T06:05:55Z
+skydog	https://github.com/blackboxprogramming/skydog	This is code to make the https://www.freenove.com/ raspberry pi dog directed by a langchain based autonomous agent.	false	2026-04-12T01:33:45Z
+aioapns	https://github.com/blackboxprogramming/aioapns	An efficient APNs Client Library for Python/asyncio	false	2026-06-03T19:04:11Z
+AssemblyAI-ElevenLabs	https://github.com/blackboxprogramming/AssemblyAI-ElevenLabs		false	2026-04-11T00:15:40Z
+eufy-clean-local-key-grabber	https://github.com/blackboxprogramming/eufy-clean-local-key-grabber	Eufy Clean Tuya device ID/local key grabber (unmaintained)	false	2026-09-14T17:18:01Z
+Chaos	https://github.com/blackboxprogramming/Chaos	Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video	false	2026-04-08T23:12:33Z
+smmalloc	https://github.com/blackboxprogramming/smmalloc	Blazing fast memory allocator designed for video games	false	2026-06-10T07:19:57Z
+CubeWorld	https://github.com/blackboxprogramming/CubeWorld	Minecraft like game made in Unity	false	2026-04-09T20:12:54Z
+web-desktop-environment	https://github.com/blackboxprogramming/web-desktop-environment	a web-based cross-platform desktop environment	false	2026-04-04T19:38:54Z
+hubot-zulip	https://github.com/blackboxprogramming/hubot-zulip		false	2026-06-03T19:04:20Z
+Isometric-Minecraft-CE	https://github.com/blackboxprogramming/Isometric-Minecraft-CE	Creating an isometric sandbox game on the TI 84+ CE.	false	2026-04-08T17:04:29Z
+AmazonFlingUnity	https://github.com/blackboxprogramming/AmazonFlingUnity	A Unity wrapper over Amazon Fling SDK to cast videos to FireTV and Firestick devices. Currently supports only Android and only second screen applications (phone controller/remote).	false	2026-04-12T01:36:05Z
+TownGuard	https://github.com/blackboxprogramming/TownGuard	A 3D fantasy game about defending your village from waves of monsters.	false	2026-04-08T16:38:19Z
+SimCraft	https://github.com/blackboxprogramming/SimCraft	A program to convert SimCity 4 (Deluxe) cities into Minecraft worlds.	false	2026-04-08T16:51:36Z
+fakeldap	https://github.com/blackboxprogramming/fakeldap	A fake ldap implementation to be used in unittests.	false	2026-06-03T19:04:30Z
+Root_firestick	https://github.com/blackboxprogramming/Root_firestick	root for firestick with FireOS < 7.2.7.3.	false	2026-04-12T01:35:15Z
+indexeddb-fs	https://github.com/blackboxprogramming/indexeddb-fs	An "fs" kind of library dedicated to the browser. It provides a lightweight and efficient interface for managing files and directories in web applications.	false	2026-04-04T19:38:37Z
+yaksplained	https://github.com/blackboxprogramming/yaksplained	All the SerenityOS Yaks, explained	false	2026-06-03T15:01:41Z
+Fractal_Engine	https://github.com/blackboxprogramming/Fractal_Engine	WIP 3D game engine with editor and other stuff	false	2026-06-10T07:24:59Z
+zulip-csharp	https://github.com/blackboxprogramming/zulip-csharp	A C# library for the Zulip API	false	2026-06-03T19:04:40Z
+zulip-markdown-parser	https://github.com/blackboxprogramming/zulip-markdown-parser		false	2026-06-03T19:04:51Z
+libvirt-old	https://github.com/blackboxprogramming/libvirt-old	Libvirt bindings for Node.js®	false	2026-06-10T06:10:05Z
+os.js	https://github.com/blackboxprogramming/os.js	OS.js - JavaScript Web Desktop Platform	false	2026-04-04T19:31:19Z
+setup-jakt	https://github.com/blackboxprogramming/setup-jakt	Action to configure and setup Jakt 	false	2026-06-03T15:02:05Z
+Amazon-Firestick-Sentiment	https://github.com/blackboxprogramming/Amazon-Firestick-Sentiment		false	2026-04-12T01:36:29Z
+hak5	https://github.com/blackboxprogramming/hak5	hak5 YouTube videos	false	2026-06-15T00:00:55Z
+oxtra	https://github.com/blackboxprogramming/oxtra	oxtra is a lightweight and easy to use binary translator capable of executing x86-64 programs on RISC-V.	false	2026-06-10T06:04:31Z
+django-auth-ldap	https://github.com/blackboxprogramming/django-auth-ldap	Django authentication backend that authenticates against an LDAP service.	false	2026-06-03T19:13:47Z
+swift-zulip-api	https://github.com/blackboxprogramming/swift-zulip-api	A Zulip library written in Swift.	false	2026-06-03T19:13:55Z
+veritasium-prisoners	https://github.com/blackboxprogramming/veritasium-prisoners	Testing out the riddle from a [veritasium video](https://www.youtube.com/watch?v=iSNsgj1OCLA)	false	2026-04-08T23:13:59Z
+whatsApp_Replika	https://github.com/blackboxprogramming/whatsApp_Replika	My chat app.  You can chat anyone who's using this app! Please check the file 'videos' for the final results!	false	2026-04-10T02:23:14Z
+http-parser	https://github.com/blackboxprogramming/http-parser	http request/response parser for c	false	2026-06-10T07:00:38Z
+scapy	https://github.com/blackboxprogramming/scapy		false	2026-06-15T00:00:37Z
+Replika3Way	https://github.com/blackboxprogramming/Replika3Way	Conversation and activities between human and 2 Replikas	false	2026-04-10T02:23:25Z
+zulip-node	https://github.com/blackboxprogramming/zulip-node		false	2026-06-03T19:14:02Z
+lisp-in-life	https://github.com/blackboxprogramming/lisp-in-life	A Lisp interpreter implemented in Conway's Game of Life	false	2026-04-08T23:25:06Z
+How-to-Make-a-Computer-Operating-System	https://github.com/blackboxprogramming/How-to-Make-a-Computer-Operating-System	How to Make a Computer Operating System in C++	false	2026-06-10T05:27:27Z
+serenity-fuzz-corpora	https://github.com/blackboxprogramming/serenity-fuzz-corpora	Fuzz corpora that shouldn't *quite* go into Serenity, I think	false	2026-06-03T15:02:25Z
+wsl2	https://github.com/blackboxprogramming/wsl2		false	2026-06-15T00:00:25Z
+smallworld	https://github.com/blackboxprogramming/smallworld	Generate and analyze small-world networks according to the revised Watts-Strogatz model where the randomization at β = 1 is truly equal to the Erdős-Rényi network model.	false	2026-04-08T23:25:13Z
+zulip-zapier	https://github.com/blackboxprogramming/zulip-zapier	Zulip's Zapier integration	false	2026-06-03T19:14:09Z
+ReplikAPP	https://github.com/blackboxprogramming/ReplikAPP	A project designed for LAPI - Phone interaction.	false	2026-04-10T02:21:48Z
+ClickerTown	https://github.com/blackboxprogramming/ClickerTown	An isometric clicker game. Built using Phaser 3.	false	2026-04-08T16:33:41Z
+zulip-gci-submissions	https://github.com/blackboxprogramming/zulip-gci-submissions	Student submissions for Zulip's GCI 2017 program	false	2026-06-03T19:14:17Z
+freenove-robot-webapp	https://github.com/blackboxprogramming/freenove-robot-webapp	Simple webapp to control Raspberry Pi robot + camera feed (Freenove 4W)	false	2026-04-12T01:32:52Z
+remotedev-serialize	https://github.com/blackboxprogramming/remotedev-serialize	Serialize "unserializable" data and parse it back.	false	2026-06-03T19:14:24Z
+Powershell	https://github.com/blackboxprogramming/Powershell	Powershell scripts used in David Bombal's YouTube videos.	false	2026-06-15T00:00:11Z
+Quantum	https://github.com/blackboxprogramming/Quantum	The Quantum Project is a Hardware, Software & Operating System Development Framework. 	false	2026-06-10T05:31:42Z
+whatwg-url	https://github.com/blackboxprogramming/whatwg-url	An implementation of the WHATWG URL Standard in JavaScript without unicode	false	2026-06-03T19:14:32Z
+zulip-electron	https://github.com/blackboxprogramming/zulip-electron	Frozen/legacy project for Zulip desktop app; the current repository is zulip-desktop	false	2026-06-03T19:14:40Z
+ultrajson	https://github.com/blackboxprogramming/ultrajson	Ultra fast JSON decoder and encoder written in C with Python bindings	false	2026-06-03T19:14:50Z
+zulip-gci	https://github.com/blackboxprogramming/zulip-gci	GCI project category descriptions	false	2026-06-03T19:14:57Z
+jswindow	https://github.com/blackboxprogramming/jswindow	Draggable and sizeable window javascript library and css	false	2026-04-04T19:38:46Z
+react-native-webview	https://github.com/blackboxprogramming/react-native-webview	React Native Cross-Platform WebView	false	2026-06-03T20:47:56Z
+tsearch_extras	https://github.com/blackboxprogramming/tsearch_extras		false	2026-06-03T20:48:03Z
+line_profiler	https://github.com/blackboxprogramming/line_profiler	Line-by-line profiling for Python	false	2026-06-03T20:48:10Z
+django-openid-auth	https://github.com/blackboxprogramming/django-openid-auth		false	2026-06-03T20:48:18Z
+Rea	https://github.com/blackboxprogramming/Rea	Lightweight library of data structures implemented in C++11, designed for constant time insertion, erasure, lookup, and fastest possible iteration.	false	2026-06-10T06:27:32Z
+TinglingGit	https://github.com/blackboxprogramming/TinglingGit	This is a tool which helps to avoid introducing merge conflicts for open PR's in a Github repo by creating new PR's which may get merged sooner	false	2026-06-03T20:48:25Z
+WiFiAuth	https://github.com/blackboxprogramming/WiFiAuth	Because connecting to WiFis is still an unsolved problem 😂	false	2026-04-08T23:44:05Z
+phabricator-to-zulip	https://github.com/blackboxprogramming/phabricator-to-zulip	Publish Phabricator story feed to Zulip chat system.	false	2026-06-03T20:48:33Z
+libthumbor	https://github.com/blackboxprogramming/libthumbor	Python's extensions to thumbor. These are used to generate safe urls among others.	false	2026-06-03T20:48:41Z
+le3d	https://github.com/blackboxprogramming/le3d	A straightforward and easy to use 3D software renderer for real-time retro graphics.	false	2026-06-10T07:38:54Z
+zrequests	https://github.com/blackboxprogramming/zrequests	Staging area for extracting Zulip's has_request_variables feature.	false	2026-06-03T20:48:48Z
+django-bitfield	https://github.com/blackboxprogramming/django-bitfield	A BitField extension for Django Models	false	2026-06-03T20:48:56Z
+quadruped	https://github.com/blackboxprogramming/quadruped	Freenove quadrupod robot 3D remote control	false	2026-04-12T01:31:57Z
+ai-city-simulation	https://github.com/blackboxprogramming/ai-city-simulation	AI city	false	2026-04-08T16:52:29Z
+virtualenv-clone	https://github.com/blackboxprogramming/virtualenv-clone	A script for cloning a non-relocatable virtualenv. originated here: https://gist.github.com/860822	false	2026-06-03T20:49:03Z
+category-theory-programmers	https://github.com/blackboxprogramming/category-theory-programmers	Category theory in the context of (functional) programming	false	2026-04-08T23:25:12Z
+zulip.github.io	https://github.com/blackboxprogramming/zulip.github.io	Legacy zulip.org website.  No longer used.	false	2026-06-03T20:49:13Z
+UberDriverClone	https://github.com/blackboxprogramming/UberDriverClone	Projek Replika Uber Drive	false	2026-04-10T02:22:25Z
+trello-to-zulip	https://github.com/blackboxprogramming/trello-to-zulip	Script for mirroring a Trello organization's activity to Zulip	false	2026-06-03T20:49:21Z
+pyoembed	https://github.com/blackboxprogramming/pyoembed	A Python library for oEmbed that supports auto-discovered and manually included providers.	false	2026-06-03T20:49:28Z
+boto	https://github.com/blackboxprogramming/boto	For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services	false	2026-06-03T20:49:45Z
+firestick_kodi	https://github.com/blackboxprogramming/firestick_kodi	Automate installation of Kodi on Amazon Fire TV Stick using Windows	false	2026-04-12T01:35:40Z
+zulip-desktop-legacy	https://github.com/blackboxprogramming/zulip-desktop-legacy	Zulip legacy desktop app	false	2026-06-03T20:49:52Z
+zulip-ios-legacy	https://github.com/blackboxprogramming/zulip-ios-legacy	Zulip legacy iOS app	false	2026-06-03T20:49:59Z
+truncated-django-1.8.15	https://github.com/blackboxprogramming/truncated-django-1.8.15	Truncated version of Django 1.8.15 with Zulip patches applied	false	2026-06-03T20:50:07Z
+django	https://github.com/blackboxprogramming/django	The Web framework for perfectionists with deadlines.	false	2026-06-03T20:50:16Z
+firestick-loader	https://github.com/blackboxprogramming/firestick-loader	Scripting To Root, Downgrade, De-Bloat, Load Apps and Settings Onto Amazon Firestick and Other Android Devices 	false	2026-04-12T01:35:06Z
+finbot	https://github.com/blackboxprogramming/finbot	Python script for doing financial projections	false	2026-06-03T20:51:40Z
+truncated-django	https://github.com/blackboxprogramming/truncated-django	A fork of rwbarton/django/tabbott-1.8 with upstream history removed	false	2026-06-03T20:52:13Z
+replikate	https://github.com/blackboxprogramming/replikate	RepliKate is a generic WriteAheadLog / journaling implementation for Java	false	2026-04-10T02:22:38Z
+zulip-dist-tsearch-extras	https://github.com/blackboxprogramming/zulip-dist-tsearch-extras	Binaries for tsearch_extras built for Zulip.	false	2026-06-03T20:52:38Z
+zulip-dist-phantomjs	https://github.com/blackboxprogramming/zulip-dist-phantomjs	PhantomJS binaries for use with Zulip	false	2026-06-03T20:52:42Z
+DTCoreText	https://github.com/blackboxprogramming/DTCoreText	Methods to allow using HTML code with CoreText	false	2026-06-03T20:52:46Z
+django-guardian	https://github.com/blackboxprogramming/django-guardian		false	2026-06-03T20:52:49Z
+tau	https://github.com/blackboxprogramming/tau	An operating system for the Raspberry Pi	false	2026-06-10T05:43:33Z
+Browser-View-Controller--iPhone-	https://github.com/blackboxprogramming/Browser-View-Controller--iPhone-	Boilerplate code to embed a Browser into your iPhone app	false	2026-06-03T20:52:53Z
